@@ -1,0 +1,191 @@
+ADA Checklist for Existing Facilities
+Based on the 2010 ADA Standards of Accessible Design
+Priority 4 - Additional Access 
+Amenities such as drinking fountains and public telephones should be accessible to people with disabilities.
+
+Institute for Human Centered Design
+www.HumanCenteredDesign.org
+2014 
+ADA National Network - Questions on the ADA 800-949-4232 voice/tty 
+www.ADAchecklist.org 
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government.
+For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org.
+
+This checklist is arranged so that the user can enter relevant information.
+
+Survey Information: 
+Project 
+Building 
+Location 
+Date 
+Surveyors 
+Contact Information
+
+For each question below indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them. There is also space to enter comments and the photo number if one of the surveyors is taking photos.  Most of the questions include possible solutions. Please add your own solutions.
+
+Drinking Fountains – If drinking fountains are provided, there needs to be one wheelchair accessible and one for standing persons.
+4.1 Does at least one drinking fountain have a clear floor space at least 30 inches wide x at least 48 inches long centered in front of it for a forward approach?
+Note: If the drinking fountain is primarily for children’s use and the spout is not more than 30 inches above the floor and no more than 3 ½ inches from the edge of the unit, a parallel approach is permitted. 
+[See 2010 ADA Standards for Accessible Design – 602.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter space, relocate drinking fountain, install a drinking fountain in another location  
+
+4.2 If there is a forward approach, do no less than 17 inches and no greater than 25 inches of the clear floor space extend under the drinking fountain?
+[306.2.2, 306.2.3]
+Yes or No 
+Note: If the drinking fountain is primarily for children’s use and the spout is not more than 30 inches above the floor and no more than 3 ½ inches from the edge of the unit, a parallel approach is permitted. 
+Measurement: 
+Comments: 
+Photo Number:
+Possible Solution: alter space, replace drinking fountain 
+
+4.3 If the drinking fountain is no deeper than 20 inches, are the operable parts no higher than 48 inches above the floor? 
+[308.2.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust drinking fountain, replace replace drinking fountain 
+
+4.4 If the drinking fountains is no less than 20 inches and no greater than 25 inches deep, are the operable parts no higher than 44 inches above the floor?
+[308.2.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust drinking fountain, replace drinking fountain
+
+4.5 Can the control be operated with one hand and without tight grasping, pinching or twisting of the wrist?
+Yes or No 
+Is the force required to activate the control no more than 5 pounds?
+[309.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change Control, adjust control
+
+4.6 Is the spout outlet no higher than 36 inches above the floor?
+[602.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust drinking fountain, replace drinking fountain
+
+4.7 Is the spout:
+At least 15 inches from the rear of the drinking fountain?
+Yes or No 
+No more than 5 inches from the front of the drinking fountain?
+[602.5]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust spout, replace drinking fountain 
+
+4.8  For the standing person drinking fountain:
+Is the spout outlet no lower than 38 inches and no higher than 43 inches above the floor?
+[602.7]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust drinking fountain, install new drinking fountain for standing height
+
+4.9 If the leading (bottom) edge of the fountain is higher than 27 inches above the floor, does the front of the  fountain protrude no more than 4 inches into the circulation path? 
+[307.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust drinking fountain, replace drink in fountain, add tactile warning such as permanent planter or partial walls 
+
+Public Telephones if provided
+4.10 Does at least one telephone have a clear floor space at least 30 inches wide and at least 48 inches long for a parallel or forward approach?
+[704.2.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move telephone, install new telephone for clear floor space
+
+4.11 Is the highest operable part of the telephone no higher than 48 inches above the floor?
+[704.2.2]
+Yes or No  
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust telephone 
+
+4.12 If the leading (bottom) edge of the telephone is higher than 27 inches above the floor, does the front of the telephone protrude no more than 4 inches into the circulation path? 
+[307.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust telephone 
+
+4.13 Does at least one telephone have a volume control?
+[704.3]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install volume control, replace telephone with one that has volume control 
+
+4.14 Is the volume control identified by a pictogram of a telephone handset with radiating sound waves?
+[703.7.2.3]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add pictogram 
+
+4.15 Does at least one telephone have a TTY?
+[217.4.1]
+Yes or No 
+Note: TTY’s are devices that employ interactive text-based communication through the transmission of coded signals across the telephone network. People who are deaf and/or cannot speak mainly use them.
+Comments:
+Photo Number: 
+Possible Solution: Install TTY 
+
+4.16 Is the touch surface of the TTY keypad at least 34 inches above the floor? 
+[704.4.1] 
+Yes or No 
+Note: If a seat is provided, TTY is not required to be 34 inches minimum above the floor
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust height on TTY 
+
+4.17 Does the International Symbol of TTY identify the TTY?
+[703.7.2.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add symbol 
+
+4.18 Do signs that provide direction to public telephones also provide direction to the TTY?
+[216.9.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add signs 
+
+4.19 Do telephones that do not have a TTY provide direction to the TTY?
+[216.9.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add signs 
+
+Fire Alarm Systems 
+4.20 If there are fire alarm systems, do they have both flashing lights and audible signals?
+[702.1]
+Yes or No  
+Comments: 
+Photo Number: 
+Possible Solution: Install audible and visual alarms

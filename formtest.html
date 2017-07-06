@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Checklist Form Test</title>
+    <link rel="stylesheet" href="css/checklist.css" type="text/css">
+</head>
+<body>
+    <div id="formframe">
+        <form action="" method="post" id="survey">
+            <ol>
+                <li id="question1" class="survey-questions">
+                    <label for="entry_1460152346">Your Role</label>
+                    <ul>
+                        <li>
+                            <label><input type="radio" name="role" value="ADA coordinator" id="group_2124155314_1">ADA coordinator</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Architect" id="group_2124155314_2">Architect, engineer or other design professional</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Business" id="group_2124155314_3">Business</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Code official" id="group_2124155314_4">Code official responsible for physical accessibility requirements</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Consumer advocate" id="group_2124155314_5">Consumer advocate</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Disability Commission" id="group_2124155314_6">Disability Commission</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Educator" id="group_2124155314_7">Educator</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Local Government" id="group_2124155314_8">Local Government</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Federal Government" id="group_2124155314_9">Federal Government</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Individual with disabilities" id="group_2124155314_10">Individual with disabilities and/or family member</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Service provider" id="group_2124155314_11">Service provider</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="State government" id="group_2124155314_12">State government</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Student" id="group_2124155314_13">Student</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="role" value="Other" id="group_2124155314_14">Other</label>
+                            <input type="text" name="entry.1435484509.other_option_response" value="" id="role-other" aria-label="Other">
+                        </li>
+                </ul>
+                </li>
+                <!--<li>
+                    <label for="otherEtcotherEtc">1b. If you selected other for the question above, please elaborate here</label>
+                    <input id="otherEtc" name="otherEtc" type="txt">
+                </li>-->
+                <li id="question2" class="survey-questions">
+                    <label for="state">Your State</label>
+                    <input id="state" name="state" type="txt">
+                    <br/>
+                    <span class="explanitory">*If you are oustide of the US, please enter your country</span>
+                </li>
+                <li id="question3" class="survey-questions">
+                    <label for="entry_1257134749">Type of Facility</label>
+                    <ul>
+                        <li>
+                            <label><input type="radio" name="building" value="Local Government" id="group_1435484509_1">Local Government</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="building" value="State Government" id="group_1435484509_2">State Government</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="building" value="Private Business" id="group_1435484509_3">Private Business</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="building" value="Non-profit Organization" id="group_1435484509_4">Non-profit Organization</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" name="building" value="Other" id="group_1435484509_5">Other</label>
+                            <input type="text" name="entry.1435484509.other_option_response" value="" id="building-other" aria-label="Other">
+                        </li>
+                    </ul>
+                </li>
+                <!--<li>
+                    <label for="otherEtcotherEtc">3b. If you selected other for the question above, please elaborate here</label>
+                    <input id="otherEtc" name="otherEtc" type="txt">
+                </li>-->
+            </ol>
+            <p>
+                <button id="ButtonSubmit" onclick="postInfoToGoogle()" 
+    type="button" >Submit Survey</button>
+            </p>
+        </form>
+    </div>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/form.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

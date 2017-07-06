@@ -1,0 +1,179 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Sports Activities, Team or Player Seating, Exercise Machines & Equipment, Bowling Lanes, Saunas & Steam Rooms, and Shooting Facilities
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty    
+Survey information: 
+Project 
+Building
+Location
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+
+Miscellaneous
+Sports  Activities (2010 Standards – 206 & Ch. 4) Soccer fields, basketball courts, tennis courts, baseball fields, running tracks, skating rinks, etc.
+
+S1 Is there an accessible route to each type of sport activity?
+yes or no
+(For exterior routes use the checklist for Priority 1: Approach & Entrance.
+For interior routes use the checklist for Priority 2: Access to Goods & Services.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+S2 At court sports (tennis, basketball, volleyball, etc.) does at least one accessible route connect both sides of the court?
+yes or no
+(This is particularly important in sports such as tennis, where changing sides is part of the game.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+
+Team or Player Seating  (2010 Standards – 206, 221 & 802) Baseball, hockey, basketball, football, etc. 
+
+T1 At areas of sport activity, is there an accessible route to each side of team or player seating?
+yes or no
+(For exterior routes use the checklist for Priority 1: Approach & Entrance.
+For interior routes use the checklist for Priority 2: Access to Goods & Services.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift
+
+T2 Is there at least one wheelchair space at team or player seating areas?
+yes or no
+Measurement:
+Solution:Add wheelchair space
+
+T3 If there is a single wheelchair space, is it at least 36 inches wide?
+yes or no
+Measurement:
+Solution:Alter space
+
+T4 If there are 2 adjacent wheelchair spaces, are they each at least 33 inches wide?
+yes or no
+Measurement:
+Solution:Alter spaces
+
+T5 If the wheelchair space can be entered from the front or rear, is it at least 48 inches deep?
+yes or no
+Measurement:
+Solution:Alter spaces
+
+T6 If the wheelchair space can only be entered from the side, is it at least 60 inches deep?
+yes or no
+Measurement:
+Solution:Alter space
+
+T7 Do wheelchair spaces adjoin, but not overlap, accessible routes?
+yes or no
+Solution:Alter spaces
+
+T8 Do wheelchair spaces not overlap circulation paths?
+yes or no
+Note: The term "circulation paths" means aisle width required by applicable building or life safety codes for the specific assembly occupancy. Where the circulation path provided is wider than the required aisle width, the wheelchair space may intrude into that portion of the circulation path that is provided in excess of the required aisle width.
+Solution:Alter spaces
+
+Exercise Machines & Equipment (2010 Standards – 206, 236 & 1004)
+
+E1 Is there an accessible route to at least one of each type of exercise machine and equipment?
+yes or no
+(Use the checklist for Priority 2: Access to Goods & Services)
+(Most strength training equipment and machines are considered different types. For example, a bench press machine is different from a biceps curl machine. Cardiovascular exercise machines, such as stationary bicycles, rowing machines, stair climbers and treadmills, are all different types.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+E2 Is there clear floor space at least 30 inches wide by at least 48 inches long positioned for transfer or for use by a person seated in a wheelchair next to at least one of each type of exercise machine and equipment?
+yes or no
+(1. To make a shoulder press accessible, the clear floor space should be next to the seat.  For a bench press, the clear floor space should be centered on the operating mechanisms.
+2. Machines and equipment can share clear floor space.
+3. The exercise equipment and machines do not need to comply with the 2010 Standards specifications for controls and operating mechanism.)
+Solution:Add clear floor space
+
+Bowling Lanes  (2010 Standards – 206 & Ch.4)
+
+B1 Is there an accessible route to at least 5 percent but no less than one of each type of bowling lane?
+yes or no
+Number:
+(For interior routes use the checklist for Priority 2: Access to Goods & Services.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift
+
+Saunas & Steam Rooms  (2010 Standards – 241 & 612)
+
+S1 Is there an accessible route to at least one sauna and steam room?
+yes or no
+If there are separate rooms for men and women, is there an accessible route to at least one for each gender?
+yes or no
+(For interior routes use the checklist for Priority 2: Access to Goods & Services.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+S2 If there is seating in the room does at least one bench:
+Have clear floor space at least 30 wide inches by at least 48 inches long at the end of the bench and parallel to the short axis of the bench?  
+yes or no
+Measurement:
+Is the clear space free from the swing of the room door?
+yes or no
+Measurement:
+Is the bench seat:
+At least 42 inches long? 
+yes or no
+Measurement:
+No less than 20 inches and no greater than 24 inches deep?
+yes or no
+Measurement:
+Is the top of the bench seat no less than 17 inches and no greater than 19 inches above the floor or ground?
+yes or no
+Measurement:
+Does the bench have back support or is it affixed to a wall?
+yes or no
+Measurement:
+Does the back extend from a point no more than 2 inches and a point no less than 18 inches above the seat surface?
+yes or no
+Measurement:
+Solutions:Move bench
+Replace bench
+Affix bench to wall
+
+S3 Is there a clear floor space for a person in wheelchair to turn around in the room, i.e. a circle at least 60 inches in diameter or a T-shaped space within a 60-inch square?
+yes or no
+Measurement:
+(A readily removable bench is permitted to obstruct the turning space.)
+Solutions:Add space
+Move or remove partitions, fixtures or objects
+
+Shooting Facilities with Firing Positions  (2010 Standards – 243 & 1010)
+
+S1 Is there an accessible route to the shooting facility?
+yes or no
+(For exterior routes use the checklist for Priority: 1 Approach & Entrance.
+For interior routes use the checklist for Priority 2:  Access to Goods & Services.)
+Solutions:Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+S2 Is there a clear floor space for a person in wheelchair to turn around, i.e. a circle at least 60 inches in diameter, for at least 1 of each type of firing position?
+yes or no
+Measurement:
+Solutions:Add space
+Move or remove partitions, fixtures or objects

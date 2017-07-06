@@ -1,0 +1,90 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Fishing Piers & Platforms
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty    
+Survey information: 
+Project 
+Building
+Location
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+Public fishing piers and platforms should be accessible to everyone, including people with disabilities.
+Fishing Piers & Platforms  (2010 Standards – 206, 237 & 1005)
+
+F1 Is there an accessible route to the entrance of the fishing pier or platform?
+yes or no
+(Use the checklist for Priority 1: Approach & Entrance.)
+Solutions: Add a ramp
+Regrade to 1:20    maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+F2 Is there an accessible route to the fishing area?
+yes or no
+(To deal with varying water levels, exceptions apply when gangways are part of the accessible route.  A gangway is a variable-sloped pedestrian walkway that links a fixed structure or land with a floating structure.
+Exceptions:
+1. The gangway rise may be greater than 30 inches.  Therefore gangways may be any length and no intermediate landings are required.
+2. Where the total length of the gangway or series of gangways is 30 feet minimum, the gangway may be steeper than 1:12.
+3. Where the gangway connects to transition plates, ramp landings are not required.
+4. Where the gangway and transition plates connect, handrail extensions are not required. 
+5. Where handrail extensions are provided on the gangway or transition plates, the handrail extensions are not required to be parallel with the ground surface.
+6. Changes in level ¼ to ½ inch high, beveled with a slope no steeper than 1:20 are permitted on the surface of the gangway.
+Note: When gangways, transition plates and floating piers and platforms are part of an accessible route, the cross slope requirement of 1:48 maximum is measured when they are in the static position, i.e. absence of movement that results from waves and wind.)
+SolutionS: Add a ramp
+Regrade to 1:20 maximum slope
+Widen route 
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+F3 If a transition plate is steeper than 1:20 is a there a landing at the end of the transition plate?
+yes or no
+Solution: Add landing
+
+F4 If there are railings, guards or handrails at the fishing area, are at least 25 percent no more than 34 inches above the ground or deck?
+yes or no
+Number:
+Measurement:
+(Guards may be higher than 34 inches if the higher portion is no less than 42 inches high and balusters or ornamental patterns do not allow a 4-inch diameter sphere to pass through up to a height of 34 inches and do not allow an 8-inch diameter sphere to pass through between 34 inches and 42 inches above the ground. This allows for increased safety at specific locations and compliance with certain building codes.)
+Solution: Change railing, guard, and/or handrail height
+
+F5 Are the 34-inch maximum high railings, guards or handrails dispersed throughout the fishing pier or platform?
+yes or no
+Measurement:
+Solution: Relocate railings, guards, and/or handrails
+
+F6 At the 34-inch maximum high railings, guards or handrails:
+Is there a curb or barrier extending 2 inches minimum above the surface of the pier or platform?
+yes or no
+Measurement:
+Or 
+Does the ground or deck extend at least 12 inches beyond the inside face of the railing at a clear width of at least 30 inches and clear height of at least 9 inches?
+yes or no
+Measurement:
+Solutions: Add curb or barrier
+Extend ground or deck
+Relocate railings, guards, and or handrails
+
+F7 Is there a clear floor space at least 30 inches wide by at least 48 inches long at the 34-inch maximum high railing?
+yes or no
+Measurement:
+Solution: Add clear floor space
+
+F8 If there are no railings, guards or handrails, is there a clear floor space at least 30 inches wide by at least 48 inches long on the pier or platform?
+yes or no
+Measurement:
+Solution: Add clear floor space
+
+F9 Is there a clear floor space for a person in wheelchair to turn around, i.e. a circle at least 60 inches in diameter or a T-shaped space within a 60-inch square, on the fishing pier or platform?
+yes or no
+Measurement:
+Solutions: Add space
+Move or remove fixtures or objects
+Reconfigure space
+

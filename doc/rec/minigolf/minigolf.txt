@@ -1,0 +1,76 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Miniature Golf Facilities
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty    
+Survey information: 
+Project 
+Building
+Location
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+Miniature golf facilities should be accessible to everyone, including people with disabilities.
+Miniature Golf Facilities (2010 Standards – 206, 239 & 1007)
+
+M1 Is there an accessible route to the entrance of the miniature golf facility?
+yes or no
+(Use the checklist for Priority 1: Approach & Entrance.)
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited–use/limited access elevator 
+
+M2 Is there an accessible route to at least 50 percent of the golf holes, including the start of play?
+yes or no
+Number:
+(Where the accessible route is provided on the play surface of the accessible holes, the following exceptions apply:
+1. If there is carpet, it may be higher than ½ inch thick and does not have to be securely attached.
+2. If the accessible route intersects the playing surface of a hole, a curb no higher than 1 inch is permitted for a width of at least 32 inches.
+3. If the rise is no greater than 4 inches, a slope no greater than 1:4 is permitted.
+4. If there is a ramp with landings: the landing slope is permitted to be no greater than 1:20; length of the landing at the top and bottom is permitted to be at least 48 inches long; and the size of the landing where the ramp changes direction is permitted to be at least 48 inches by at least 60 inches.
+5. Handrails are not required on holes.)
+Solutions: Regrade to 1:20 maximum slope where the route is not on the hole play surface
+Regrade to 1:4 maximum slope where the route is on the hole play surface and the rise is no greater than 4 inches
+Install a ramp
+Install a platform lift
+
+M3 Are the accessible holes connected by the accessible route consecutive?
+yes or no
+(Exception: One break in the sequence of consecutive holes is permitted if the last hole on the course is the last hole in the sequence.) 
+Solutions: Alter route
+Alter consecutive holes
+
+M4 Is there an accessible route from the last accessible hole to the course entrance or exit that does not require travel through any other holes on the course?
+yes or no
+Solutions: Alter route
+Regrade to 1:20 maximum slope
+Install a ramp
+
+M5 At the start of play for the accessible holes, is there a clear floor/ground space at least 48 inches by at least 60 inches?
+yes or no
+Measurement:
+Is the slope of the clear space no greater than 1:48, i.e. for every inch of height change there are at least 48 inches of run?
+yes or no
+Measurement:
+Solutions: Alter hole
+Remove obstructions
+Regrade to maximum 1:48 slope
+
+M6 At the accessible holes where golf balls rest, is there a clear floor/ground space at least 36 inches wide by at least 48 inches long?
+yes or no
+Measurement:
+Is the running slope of the clear space no greater than 1:20, i.e. for every inch of height change there are at least 20 inches of run?
+yes or no
+Measurement:
+Solutions: Alter hole
+Remove obstructions
+Regrade to 1:20 maximum slope
+
+M7 Are all areas of accessible holes where golf balls rest no greater than 36 inches from the clear space?
+yes or no
+Measurement:
+Solution: Alter hole

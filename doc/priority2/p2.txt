@@ -1,0 +1,851 @@
+ADA Checklist for Existing Facilities
+Based on the 2010 ADA Standards of Accessible Design
+Priority 2 - Access to Goods and Services 
+The layout of the building should allow people with disabilities to obtain goods and services and to participate in activities without assistance.
+
+Institute for Human Centered Design
+www.HumanCenteredDesign.org
+2014 
+ADA National Network - Questions on the ADA 800-949-4232 voice/tty 
+www.ADAchecklist.org 
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+
+Questions or comments on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org
+
+For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org.
+
+This checklist is arranged so that the user can enter relevant information.
+
+Survey Information: 
+Project 
+Building 
+Location 
+Date 
+Surveyors 
+Contact Information 
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them. There is also space to enter comments and the photo number if one of the surveyors is taking photos. Most of the questions include possible solutions. Please add your own solutions. 
+
+2.1 Does the accessible entrance provide direct access to the main floor, lobby and elevator? [See 2010 ADA Standards for Accessible Design - 206.4] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Create accessible route 
+
+Interior Accessible Route
+2.2 Are all public spaces on at least one accessible route? 
+[206.2.4]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Create accessible route 
+
+2.3 Are all public stable, firm and slip-resistant? 
+[40.2,302.1]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Repair uneven surfaces 
+
+2.4 Is the route at least 36 inches wide? 
+[403.5.1] 
+Yes or No 
+The accessible route can narrow to 32 inches min. for a max. Of 24 inches. these narrower portions of the route must be at least 48 inches from each other. 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen route 
+
+2.5 If the route is greater than 200 feet in length and less than 60 inches wide, is there a passing space no less than 60 x 60 inches? 
+[403.5.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen route for passing space
+
+2.6 Is the running slope no steeper than 1:20, i.e. for every inch of height change there are at least 20 inches of route run? 
+[403.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Regrade 
+
+2.7 Is the cross slope no steeper than 1:48? 
+[403.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Regrade 
+
+2.8 Do all objects on circulation paths through public areas, e.g. fire extinguishers, drinking fountains, signs, etc., protrude no more than 4 inches into the path? 
+Yes or No 
+Or
+If an object protrudes more than 4 inches, is the bottom leading edge at 27 inches or lower above the floor? 
+[307.2] 
+Or 
+Is the bottom leading edge at 80 inches or higher above the floor? 
+[307.4] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove objects, add tactile warning such as permanent planter or partial walls
+
+2.9 Are there elevators or platforms lifts to all public stories? 
+Vertical access is not required in new construction or alterations if a facility is less than three stories or has less than 3,00 square feet per story, unless the facility is a shopping center, shopping mall, professional office or a health care provider, transportation terminal, state facility or local government facility. 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install if necessary an elevator or lift if necessary, offer goods and services on an accessible story.
+
+Ramps. If any portion of the accessible route is steeper than 1:20, it should be treated as a ramp.
+2.10 If there is a ramp, is it at least 36 inches wide? 
+[405.5] 
+Yes or No 
+If there are handrails, measure between the handrails. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter ramp 
+
+2.11 Is the surface stable, firm and slip resistant? 
+[405.4] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Resurface ramp 
+
+2.12 For each section of the ramp, is the running slope no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of ramp run? 
+[405.2] 
+Rises no greater than 3 inches with a slope no steeper than 1:8 and rises no greater than 6 inches with a slope no steeper than 1:10 are permitted when due to space limitations. 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lengthen ramp to decrease slope, relocate ramp 
+
+2.13 Is there a level landing that is at least 60 inches long and at least as wide as the ramp: 
+At the top of the ramp? 
+Yes or No 
+At the bottom of the ramp? 
+[405.7.2, 405.7.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter ramp, Relocate ramp 
+
+2.14 Is there a level landing where the ramp changes direction that is at least 60 x 60 inches? 
+[405.7.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Increase landing size 
+
+2.15 If the ramp has a rise higher than 6 inches are the handrails on both sides? 
+[405.8] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add handrails 
+
+2.16 Is the top of the handrail gripping surface no less than 34 inches and no greater than 38 inches above the ramp surface?
+[505.4] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust handrail height 
+
+2.17 Is the handrail gripping surface continuous and not obstructed along the top or sides? 
+[505.3] 
+Yes or No 
+If there are obstructions, is the bottom of the gripping surface obstructed no more than 20%? 
+[505.6]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure or replace handrails 
+
+2.18 If the handrail gripping surface is circular, is to no less than 1 1/4 inches and no greater than 2 inches in diameter? 
+[505.7.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: Replace handrails
+ 
+2.19 If the handrail gripping surface is non-circular: 
+Is the perimeter no less than 4 inches and no greater than 6 1/4 inches? 
+Yes or No 
+Is the cross section no greater than 2 1/4 inches in diameter? 
+[505.7.2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace handrails
+
+2.20 Does the handrail: 
+Extend at least 12 inches horizontally beyond the top and bottom of the ramp? 
+Yes or No 
+OR
+Return to a wall, guard, or landing surface? 
+[505.10.1] 
+Yes or No 
+If a 12” extension would be horizontally (in circulation path), it is not required 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter handrails 
+
+2.21 To prevent wheelchair casters and crutch tips for falling off: 
+Does the surface of at the ramp extend at least 12 inches beyond the inside face of the handrails? 
+Yes or No 
+Is there a curb or barrier that prevents the passage of a 4-inch diameter sphere? 
+[405.9.1, 405.9.2] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add curb, add barrier, extend ramp width
+ 
+Elevators – Full Size and LULA (limited use, limited application) LULA elevators are permitted in alterations.
+2.22 If there is a full size or LULA elevator, are the call buttons no higher than 54 inches above the floor? 
+[407.2.1.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number:
+Possible solution: Change call button height 
+
+2.23 If there is a full size or LULA elevator, does the sliding door reopen automatically when obstructed by an object or person? 
+[40.3.3] 
+If constructed before 3/15/2012 and manually operated, the door is not required to reopen automatically
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution:
+
+2.24 If there is a LULA elevator with a swinging door: 
+Is the door power-operated?
+Yes or No 
+Does the door remain open for at least 20 seconds when activated? 
+[403.3.2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Add power operated door, adjust opening time 
+
+2.25 If there is a full size elevator: 
+Is the interior at least 54 inches deep by at least 36 inches wide with at least 16 sq. ft. of clear floor area? 
+Yes or No 
+Is the door opening width at least 32 inches? 
+[407.4.1 Exception] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace elevator 
+
+2.26 If there is a LULA elevator, is the interior: 
+At least 51 inches wide with a door opening width of at least 36 inches?
+Or 
+At least 54 inches deep by at least 36 inches wide with at least 15 sq. ft. or clear floor area and a door opening width of at least 32 inches? 
+[408.4.1 Exception 1 and 2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace elevator
+
+2.27 If there is a full size or LULA elevator, are the in-car controls: 
+No less than 15 inches and no greater 48 inches above the floor? 
+Or 
+Up to 54 inches above the floor for a parallel approach? 
+[408.4.6, 407.4.6.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change control height 
+
+2.28 If there is as LULA elevator, are the in-car controls centered on a side wall? 
+[408.4.6] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure controls 
+
+2.29 If there is a full size LULA elevator: 
+Are the car control buttons designated with raised characters? 
+Yes or No 
+Are the car control buttons designated with Braille? 
+[407.4.7.1, 703.2] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add raised characters, add braille 
+
+2.30 If there is a full size or LULA elevator, are there audible signals which sound as the car passes or is about to stop at a floor? 
+[407.4.8] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install audible signals 
+
+2.31 If there is a full size or LULA elevator: 
+Is there a sign on both door jambs at every floor identifying the floor?
+Yes or No 
+Is there a tactile star on both jambs at the main entry level? 
+Yes or No 
+Do text characters contrast with their background? 
+Yes or No 
+Are text characters raised? 
+Yes or No 
+Is there Braille? 
+Yes or No 
+Is the sign mounted between 48 inches to the baseline of the lowest character and 60 inches to the baseline of the highest character above the floor? 
+If constructed before 3/5/2012 and mounted no higher than 60 inches to the centerline of the sign, relocation is not required 
+[407.2.3, 408.2.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install signs, change sign height 
+
+Platform Lifts 
+2.32 If a lift is provided, can it be used without assistance from others? 
+[410.1] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: reconfigure so independently operable 
+
+2.33 Is there a clear floor space at least 30 inches wide by at least 48 inches long for a person using a wheelchair to approach and reach the controls to use the lift? 
+[410.5] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstructions 
+
+2.34 Are the lift controls no less than 15 inches and no greater than 48 inches above the floor? 
+[410.5] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change control height
+
+2.35 Is there a clear floor space at least 30 inches wide by at least 48 inches long inside the lift? 
+[410.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible solution: Replace lift 
+
+2.36 If there is an end door, is the clear opening width at least 32 inches? 
+[410.6] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter door width 
+
+2.37 If there is a side door, is the clear opening width at least 42 inches? 
+[410.6] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter door width 
+
+Signage
+2.38 If there are signs designated permanent rooms and spaces not likely to change over time, e.g. room numbers and letters, room names, and exit signs: 
+[216.2] 
+Do text characters contrast with their backgrounds? 
+[703.5] 
+Yes or No 
+Are text characters raised? 
+[703.3] 
+Yes or No 
+Is there Braille?
+[703.3]
+Yes or No 
+Is the sign mounted:
+On the wall on the latch side of the door? 
+[703.4.2]
+Yes or No 
+Signs are permitted on the push side of doors with closers and without hold-open devices.
+Does the sign have clear floor space beyond the arc of the door swing between the closed position and 45-degree open position, at least 18 x 18 inches centered on the tactile characters?
+If constructed before 3/15/2012 and a person may approach within 3 inches of the sign without encountering protruding objects or standing within the door swing, relocation not required 
+Yes or No 
+So the baseline of the lowest character is at least 48 inches above the floor and the baseline of the highest character is no more than 60 inches above the floor? *
+If constructed before 3/15/2012 and mounted no higher than 60 inches to the centerline of the sign, relocation not required.
+Yes or No
+If the sign is at double doors with one active leaf, the sign should be on the inactive leaf; if both leaves are active, the sign should be on the wall to the right of the right leaf. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install tactile  sign, relocate sign 
+
+2.39 If there are signs that provide direction to or information about interior spaces:
+Do text characters contrast with their backgrounds? 
+[703.5.1]
+Yes or No 
+Is the sign mounted so that characters are at least 40 inches above the floor?
+[703.5.6]
+Yes or No 
+Raised characters and Braille are not required.
+Comments: 
+Photo Number: 
+Possible Solution: Install signs with contrasting characters, change sign height
+
+Interior Doors – to classrooms, medical exam rooms, conference rooms, etc. 
+2.40 Is the door opening width at least 32 inches clear, between the face of the door and the stop, when the door is open 90 degrees?
+[404.2.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install offset hinges, alter the doorway 
+
+2.41 If there is a front approach to the pull side of the door, is there at least 18 inches of maneuvering clearance beyond the latch side plus at least 60 inches clear depth? 
+Yes or No 
+Note: See 2010 Standards 404.2.4 for maneuvering clearance requirements on the push side of the door and side approaches to the pull side of the door.
+On both sides of the door, is the floor surface of the maneuvering clearance level (no steeper than 1:48)?
+[404.2.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstructions, reconfigure walls, add automatic door opener 
+
+2.42 Is the door threshold no more than 1/4 inch high? 
+Yes or No 
+Or 
+No more than 3/4 inch high with a sloped section beveled no steeper than 1:2? 
+Yes or No
+Or 
+no more than 1/2 inch high with a sloped section beveled no steeper than 1:2 (If installed since 1/26/93)? 
+[404.2.25, 303.2] 
+The first 1/4 inch of the 1/2 or 3/4 inch threshold may be vertical; the rest must be beveled. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove or replace threshold 
+
+2.43 Is the door equipped with hardware that is operable with one hand and does not require tight grasping, pinching or twisting of the wrist? 
+Yes or No 
+Door Handle? 
+Yes or No 
+Lock (if provided)?
+[404.2.7] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Replace inaccessible knob with lever, loop or push hardware and add automatic door opener 
+
+2.44 Are the operable parts of the hardware no less than 34 inches and no greater than 48 inches above the floor? 
+[404.2.7] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change hardware height 
+
+2.45 Can the door be opened easily (5 pounds maximum force)?
+[404.2.9]
+Yes or No 
+Note: You can use a pressure gauge or fish scale to measure force.  If you do not have one you will need to judge whether the door is easy to open.
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust or replace closers, install lighter doors, install power-assisted or automatic door openers
+
+2.46If the door has a closer, does it take at least 5 seconds to close from an open position of 90 degrees to a position of 12 degrees from the latch?
+[404.2.8.1]
+Yes or No 
+Measurement: 
+Comments:
+Photo Number: 
+Possible Solution: Adjust closer 
+
+Rooms and Spaces – stores, supermarkets, libraries, etc.  
+2.47 Are aisles and pathways to goods and services, and to one of each type of sales and service counters, at least 36 inches wide? 
+[403.5.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Rearrange goods, equipment and furniture 
+
+2.48 Are floor surfaces stable, firm and slip resistant?
+[302.1] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Change floor surface 
+
+2.49 If there is carpet: 
+Is it no higher than 1/2 inch? 
+Yes or No 
+Is it securely attached along the edges? 
+[302.2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace carpet 
+
+Controls. Light switches, security and intercom systems, emergency/alarm boxes, etc.
+2.50 Is there a clear floor space at least 30 inches wide by at least 48 inches long for a forward or parallel approach? 
+[305.3]
+Yes or No 
+Are the operable parts no higher than 48 inches above the floor?
+If constructed before 3/15/2012 and a parallel approach is provided, controls can be 54 inches above the floor
+[309.3, 308]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change height of control 
+
+2.51 Can the control be operated with one hand and without tight grasping, pinching, or twisting of the wrist?
+[309.4]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Replace control 
+
+Seating.  Assembly Areas – theaters, auditoriums, stadiums, theater style classrooms, etc.  
+2.52 Are an adequate number of wheelchair spaces provided?
+[221.2.1]
+Number of Seats 4 to 25, 1 wheelchair space required
+Number of Seats 26 to 50 2 wheelchair spaces required
+Number of Seats 51 to 150 3 wheelchair spaces required
+Number of seats 151 to 200 4 wheelchair space required
+Number of Seats 151 to 300 4 wheelchair space is required
+More than 300 seats, see 2010 Standards 221.2.1. go to http://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c2 and scroll down.
+Yes or No  
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to add wheelchair spaces
+
+2.53 Are wheelchair spaces dispersed to allow location choices and viewing angles equivalent to other seating, including specialty seating areas that provide distinct services and amenities?
+[221.2.3]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to disperse wheelchair spaces
+
+2.54 Where people are expected to remain seated, do people in wheelchair spaces have a clear line of sight over and between the heads of others in front of them?
+[802.2.1.1, 802.1.1.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Alter for line of sight 
+
+2.55 Where people are expected to stand, do people in wheelchair spaces have a clear line of sight over and between the heads of others in front of them?
+[802.2.2.1, 802.1.2.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Alter for the line of sight 
+
+2.56 If there is a single wheelchair space, is it at least 36 inches wide?
+[802.1.2]
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter space 
+
+2.57 If there are two adjacent wheelchair spaces, are they each at least 33 inches wide?
+[802.1.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter spaces 
+
+2.58 If the wheelchair space can be entered from the front or rear, is it at least 48 inches deep? 
+[802.1.3] 
+Yes or NO 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter space 
+
+2.59 If the wheelchair space can only be entered from the side, is it at least 60 inches deep?
+[802.1.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Popular Solution: Alter spaces
+
+2.60 Do wheelchair spaces adjoin, but not overlap, accessible routes?
+[802.1.4]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Alter spaces
+
+2.61 Is there at least one companion seat for each wheelchair space?
+[221.3]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add companion seats 
+
+2.62 Is the companion seat located so the companion is shoulder-to-shoulder with the person in a wheelchair?
+[802.3.1]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Alter seating 
+
+2.63 Is the companion seat equivalent in size, quality, comfort and amenities to seating in the immediate area?
+[802.3.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add equivalent seating 
+
+Seating - At dining surfaces such as restaurants, cafeterias, bars, etc. and non-employee work surfaces such as libraries, conference rooms, etc.
+2.64 Are at least 5%, but no fewer than one, of seating and standing spaces accessible for people who use wheelchairs?
+[226.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter to provide accessible spaces 
+
+2.65 Is there a route at least 36 inches wide to accessible seating?
+[403.5.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen route 
+
+2.66 At the accessible space(s), is the top of the accessible surface no less than 28 inches and no greater than 34 inches above the floor?
+[902.3]
+Yes or No 
+Note: If for children the top should be no less than 26 inches and no greater than 30 inches. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter surface height 
+
+2.67 Is there a clear floor space at least 30 inches wide by at least 48 inches long for a forward approach? 
+[305.3]
+Yes or No 
+Does it extend no less than 17 inches and no greater than 25 inches under the surface? 
+Yes or No 
+Is there knee space at least 27 inches high and at least 30 inches wide?
+[306.2, 306.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter table or work surface, add accessible table or work surface 
+
+General seating – reception areas, waiting rooms, etc.  
+2.68 Is there at least one space at least 36 inches wide by at least 48 inches long for a person in a wheelchair?
+[802.1.2, 802.1.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move furniture and equipment to provide space 
+
+Benches 
+2.69 In the locker rooms, dressing rooms and fitting rooms, is there at least one room with a bench? 
+[222.1, 803.4] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add bench 
+
+2.70 Is there a clear floor space at least 30 inches wide by at least 48 inches long at the end of the bench and parallel to the short axis of the bench?
+Yes or No 
+Is the bench seat at least 42 inches long and no less than 20 inches and no greater than 24 inches deep?
+Yes or No 
+Does the bench have back support or is it affixed to a wall? 
+Yes or No 
+Is the top of the bench seat no less than 17 inches and no greater than 19 inches above the floor?
+[903]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move bench, replace bench, affix bench to wall 
+
+Check-out Aisles – supermarkets, large retail stores, etc.  
+2.71 Is the aisle at least 36 inches wide? 
+[904.3.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen aisle 
+
+2.72 Is the counter surface of at least one aisle no higher than 38 inches above the floor?
+[904.3.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower counter 
+
+2.73 Is the top of the counter edge protection no higher than 2 inches above the counter surface?
+[904.3.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower edge protection 
+
+2.74 If there is a check writing surface, is the top no less than 28 inches and no greater than 34 inches above the floor?
+[904.3.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter check writing surface 
+
+2.75  If there is more than one check-out aisle is there a sign with the International Symbol of Accessibility at the accessible aisle?
+[216.11]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add sign 
+
+Sales and Service Counters - banks, stores, dry cleaners, auto repair shops, fitness clubs, etc.  
+2.76 Is there a portion of at least one of each type of counter that is:
+No higher than 36 inches above the floor?
+Yes or No 
+At least 36 inches long? 
+[904.4.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower section of counter, lengthen section of counter 
+
+2.77 Does the accessible portion of the counter extend the same depth as the counter top?
+[904.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter accessible portion 
+
+2.78 Is there a clear floor space at least 30 inches wide by at least 48 inches long for a forward or parallel approach?
+[904.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to provide a parallel or forward approach 
+
+2.79 If a parallel approach is used, is the clear floor space positioned with the 48 inches adjacent to the accessible length of counter?
+[904.4.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Clear floor space for a parallel or forward approach.
+
+2.80 If a forward approach is used: 
+Do no less than 17 and no greater than 25 inches of the clear floor space extend under the accessible length of the counter?
+[306.2.2, 306.2.3]
+ Is there at least 27 inches clearance from the floor to the bottom of the counter?
+[306.3.1]
+Yes or No 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to provide knee clearance 
+
+Food Service Lines – in cafeterias, salad bars, eat-in fast food establishments, etc.  
+2.81 Does at least one of each type of self-service shelf or dispensing device for tableware, dish ware, condiments, food and beverages have a forward or parallel approach?
+[904.5.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to provide approach 
+
+2.82 If there is an unobstructed parallel approach, is the shelf or dispensing device no higher than 48 inches above the floor?
+[308.3.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower shelf and/or dispensing device 
+
+2.83 If there is a shallow obstruction no deeper than 10 inches with a parallel approach, is the shelf or dispensing device no higher than 48 inches above the floor?
+[308.3.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower shelf and/or dispensing device 
+
+2.84 If there is an obstruction no less than 10 inches and no greater than 24 inches deep with a parallel approach, is the shelf or dispensing device no higher than 46 inches above the floor?
+[308.3.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower shelf and/or dispensing device 
+
+2.85 If there is an unobstructed forward approach, is the shelf or dispensing device no higher than 48 inches above the floor?
+[308.2.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower shelf and/or dispensing device 
+
+2.86 If there is an obstruction no deeper than 20 inches with a forward approach:
+Does clear floor space extend under the obstruction that is at least the same depth as the obstruction? 
+Yes or No 
+Is the shelf or dispensing device no higher than 48 inches above the floor?
+[904.5.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to provide knee space, lower shelf and/or dispensing device 
+
+2.87 If the obstruction is no less than 20 inches and no greater than 25 inches deep with a forward approach:
+Does clear floor space extend under the obstruction that is at least the same depth as the obstruction? 
+Yes or No 
+Is the shelf or dispensing device no higher than 44 inches above the floor?
+[904.5.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure to provide knee space, lower shelf and/or dispensing device 
+
+2.88 If there is a tray slide, is the top no less than 28 inches and no greater than 34 inches above the floor?
+[904.5.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure

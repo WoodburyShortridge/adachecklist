@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>HTML5 MediaElement</title>	
+	
+    <script src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+    google.load("language", "1");
+    </script>		
+	
+	
+	<script src="../build/jquery.js"></script>	
+	<script src="../build/mediaelement-and-player.min.js"></script>
+	<link rel="stylesheet" href="../build/mediaelementplayer.min.css" />
+</head>
+<body>
+
+<h1>MediaElementPlayer.js</h1>
+
+<p>Recommended Setup</p>
+
+
+<h2>MP4/WebM video</h2>
+<video width="720" height="406" id="player2" controls="controls">
+	<source src="http://dl.dropbox.com/u/1956792/42-html5-video-encoding-and-embedding-360%20%281%29.mp4" type="video/mp4">
+	<track kind="subtitles" src="../media/mediaelement.srt" srclang="en" /> 
+	<p>Your browser leaves much to be desired.</p>			
+</video>	
+
+<script>
+$('audio,video').mediaelementplayer({
+	startLanguage:'en',
+	alwaysShowControls: 'true',
+	});
+</script>
+
+</body>
+</html>

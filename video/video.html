@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>Test Video Site</title>
+		<script src="build/jquery.js"></script>
+		<script src="build/mediaelement-and-player.min.js"></script>
+		<link rel="stylesheet" href="build/mediaelementplayer.css" />
+	</head>
+	<body>
+
+
+	<h2>This is a test page using the video player MediaElements.js</h2>
+	<video src="media/echo-hereweare.mp4" width="320" height="240">
+		<track kind="subtitltes" src="media/mediaelement.srt" srclang="en"></track>
+	</video>
+<script>
+$('video,audio').mediaelementplayer( 'alwaysShowControls' );
+</script>
+	</body>
+</html>

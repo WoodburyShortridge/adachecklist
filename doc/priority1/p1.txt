@@ -1,0 +1,475 @@
+ADA Checklist for Existing Facilities
+Based on the 2010 ADA Standards of Accessible Design 
+Priority 1 - Approach & Entrance 
+An accessible route from site arrival points and an accessible entrance should be provided for everyone.
+
+Institute for Human Centered Design
+www.HumanCenteredDesign.org
+2014 
+ADA National Network - Questions on the ADA 800-949-4232 voice/tty 
+www.ADAchecklist.org 
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network and developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+
+Questions or comments on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org
+
+For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org.
+
+This checklist is arranged so that the user can enter relevant information.
+
+Survey Information: 
+Project 
+Building 
+Location 
+Date 
+Surveyors 
+Contact Information 
+
+For each question below indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them. There is also room to enter comments and the photo number of one of the surveyors is taking photos. Most of the questions include possible solutions.  Please add your own solutions. 
+
+1.1 Is there at least one route from site arrival points (parking, passenger loading zones, public sidewalks and public transportation stops) that does not require the use of stairs?
+[See 2010 ADA Standards for Accessible Design – 206.2.1]
+Yes or No
+If yes, location of route: 
+Comments:
+Photo Number: 
+Possible Solutions: Add a ramp
+Regrade to 1:20 maximum slope
+Add a lift if site constraints prevent other solutions
+Add your own solutions: 
+
+Parking. Accessible parking spaces should be identified by size, access aisle and signage. 
+
+1.2 If parking is provided for the public, are an adequate number of accessible spaces provided?
+[208.2]
+Table of how many accessible spaces are required 
+If the total spaces is between 1 - 25 you need 1 accessible space
+If the total spaces is between 26 - 50 you need 2 accessible spaces 
+If the total spaces is between 51 - 75 you need 3 accessible spaces 
+If the total spaces is between 76 - 100 you need 4 accessible spaces 
+Yes or No 
+Number of total spaces: 
+Number of accessible spaces 
+Comments:
+Photo Number:  
+Possible solution: Reconfigure by repainting lines 
+
+1.3 Of the accessible spaces, is at least one a van accessible space?
+For every 6 or fraction of 6 parking spaces required by the table above, at least 1 should be a van accessible space.
+If constructed before 3/15/2012, parking is compliant if at least 1 in every 8 accessible spaces is van accessible 
+Yes or No 
+Comments:
+Photo Number: 
+Possible Solution: Reconfigure by repainting lines 
+
+1.4 Are accessible spaces at least 8 feet wide with an access aisle at least 5 feet wide? [505.2, 502.3] 
+Yes or No 
+Measurement: 
+Note: Two spaces may share an access aisle. But check state  requirements; some specify that each state must have its own access aisle. 
+Comments:
+Photo Number:  
+Possible Solution: Reconfigure by repainting lines
+
+1.5 Is the van accessible space: 
+At least 11 feet wide with an access aisle at least 5 feet wide? 
+Yes or No 
+Or
+At least 8 feet wide with an access aisle at least 8 feet wide? 
+[502.2] 
+Yes or No 
+Measurement: 
+Comments:
+Photo Number:  
+Possible Solution: Reconfigure to provide more height
+
+1.6  Is a least 9 inches of vertical clearance provided for the van accessible space?  This is important in garages.
+[502.5] 
+Yes or No 
+Measurement: 
+Comments:
+Photo Number:  
+Possible Solutions: Reconfigure to provide van-accessible space(s) 
+
+1.7 Are the access aisles marked so as to discourage parking in them? 
+[502.3.3]
+Note: The marking method and color may be addressed by state requirements.
+Yes or No 
+Photo Number: 
+Possible Solution: Mark access aisles 
+
+1.8 Is the slope of the accessible parking spaces and access aisles no steeper than 1:48 in all directions? 
+[502.4] 
+Yes or No 
+Measurement: 
+Comments:
+Photo Number: 
+Possible Solution: Regrade surface 
+
+1.9  Does the access aisles adjoin an accessible route –width of 36 inches minimum? 
+[502.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Create accessible route and relocate accessible spaces
+
+1.10  Are accessible spaces identified with a sign that includes the International Symbol of Accessibility? 
+Yes or No 
+
+Is the bottom of the sign at least 60 inches above the ground? 
+[502.6]  
+Yes or No 
+Measurement: 
+The International Symbol of Accessibility is not required on the ground. 
+Comments: 
+Photo number: 
+Possible Solutions: Install signs 
+
+1.11 Are there signs reading “van accessible” at van accessible spaces? 
+[502.6] 
+Yes or No 
+Possible Solution: Install signs 
+
+1.12 Of the total parking spaces, are the accessible spaces located on the closest accessible route to the accessible entrances(s)? 
+[208.3.1] 
+Yes or No 
+If parking serves multiple entrances, accessible parking should be dispersed. 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure spaces 
+
+Exterior Accessible Route 
+ 
+1.13 Is the route stable, firm and slip-resistant?
+[302.1]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Repair uneven paving, fill small bumps and breaks with patches, replace gravel with asphalt or other surface. 
+
+1.14 Is the route at least 36 inches wide? 
+[403.5.1]
+The accessible route can narrow to 32 inches min. for a max. of 24 inches. These narrow portions of the route must be at least 48 inches from each other. 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change or move landscaping, furnishings or other items, and widen route 
+
+1.15 If the route is greater than 200 feet in length and less than 60 inches wide, is there a passing space no less than 60 x 60 inches? 
+[403.5.3] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible solution: Widen route for passing space 
+
+1.16 If there are grates or openings on the route are the openings no larger than 1/2 inch to dominant direction of travel? 
+Yes or No 
+Is the long dimension perpendicular to the dominant direction of travel? 
+[302.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace or move grate 
+
+1.17 Is the running slope no steeper than 1:20, i.e. for every inch of height change there are at least 20 inches of route run? 
+[403.3] 
+If the running slope is steeper than 1:20, treat as a ramp and add features such as edge protection and handrails. 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Regrade to 1:20 max. 
+
+1.18 Is the cross slope no steeper than 1:48? 
+[403.3] 
+Yes or No
+Measurement: 
+Comments: 
+Photo Number:
+Possible Solution: Regrade to 1:48 max.
+
+Curb Ramps
+1.19 If the accessible route crosses a curb, is there a curb ramp? 
+[402.2] 
+Yes or No
+Comments: 
+Photo Number: 
+Possible Solution: Install curb ramp
+
+1.20 Is the running slope of the curb ramp no steeper than 1:12, i.e. for every inch of height change there are at least 12 inches of curb ramp run? 
+[406.1, 405.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Regrade curb ramp 
+
+1.21 Is the cross slope of the curb ramp, excluding flares, no steeper than 1:48? 
+[406.1, 405.3] 
+Yes or No 
+Measurement:
+Comments: 
+Photo Number: 
+Possible Solution: Regrade curb ramp 
+
+1.22 Is the curb ramp, excluding flares at least 36 inches wide? 
+[406.1, 405.5] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen curb ramp 
+
+1.23 At the top of the curb ramp is there a level landing (slope no steeper than 1:48 in all directions) that is at least 36 inches long and at least as wide as the curb ramp? 
+[406.4] 
+Yes or No 
+If there are curb ramp flares, are the slopes of the flares no steeper than 1:10, i.e. for every inch of height change there are at least 10 inches of flare run? 
+[406.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure and add ramp flares 
+
+1.24 If the landing at the top is less than 36 inches long, are there curb ramp flares? 
+Yes or No 
+Are the slopes of the flares no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of flare run? 
+[406.4] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Add ramp flares and regrade flares 
+
+Ramps: If any portion of the accessible route is steeper than 1:20, it should be treated as a ramp.
+1.25 If there is a ramp is it at least 36 inches wide? 
+[405.5] 
+If there are handrails, measure between the handrails. 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter ramp 
+
+1.26 Is the surface stable, firm and slip resistant? 
+[405.4] 
+Yes or No 
+Comments
+Photo Number: 
+Possible Solutions: Resurface ramp 
+
+1.27 For each section of the ramp, is the running slope no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of ramp run? 
+[405.2] 
+Yes or No 
+Rises no greater than 3 inches with a slope no steeper than 1:8 and rises no greater than 6 inches with a slope no steeper than 1:10 are permitted when such slopes are necessary due to space limitations.
+Measurement:
+Comments: 
+Photo Number: 
+Possible Solution: Relocate ramp lengthen ramp to decrease slope 
+
+1.28 Is there a level landing that is at least 60 inches long and at least as wide as a ramp: 
+At the top of the ramp? 
+Yes or No 
+At the bottom of the ramp? 
+Yes or No 
+[405.7.2, 405.7.3] 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter ramp
+Relocate ramp 
+
+1.29 Is there a level landing where the ramp changes direction that is at least 60 x 60 inches? 
+[405.7.4] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter ramp 
+Increase landing size 
+
+1.30 If the ramp has a rise higher than 6 inches, are there handrails on both sides? 
+[405.8] 
+Curb ramps are not required to have handrails 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Add handrails
+
+1.31 Is the top of the handrail gripping surface no less than 34 inches and no greater than 38 inches above the ramp surface? 
+[505.4] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure or replace handrails
+Adjust handrail height 
+
+1.32 Is the handrail gripping surface continuous and not obstructed along the top or sides? 
+[505.3] 
+Yes or No 
+If there are obstructions, is the bottom of the gripping surface obstructed no greater than 20%? 
+[505.6] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure or replace handrails 
+
+1.33 If the handrail gripping surface is circular, is it no less than 1 1/4 inches and no greater than 2 inches in diameter? 
+[505.7.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace handrails 
+
+1.34 If the handrail gripping surface is non-circular:  Is the perimeter no less than 4 inches and no greater than 6 1/2 inches? 
+Yes or No 
+Is the cross section no greater than 2 1/4 inches? 
+[505.7.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace handrails 
+
+1.35 Does the handrail: 
+Extend at least 12 inches horizontally beyond the top and bottom of the ramp
+Yes or No  
+Return to a wall, guard, or landing surface? 
+[505.10.1] 
+Yes or No 
+Note: If a 12 inch extension would be hazard (in circulation path) it is not required. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter handrails 
+
+1.36 To Prevent wheelchair casters and crutch tips from falling off: 
+Does the surface of the ramp extend at least 12 inches beyond the inside face of the handrail? 
+Yes or No 
+Is there a curb or barrier that prevents the passage of a 4-inch diameter sphere? 
+[405.9.1, 405.9.2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Add curb, add barrier, extend ramp width 
+
+1.37 Is the main entrance accessible? 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Redesign to make it accessible 
+
+1.38 If the main entrance is not accessible, is there an alternative accessible entrance? 
+Yes or No 
+Can the alternative accessible entrance be used independently and during the same hours as the main entrance? 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Designate an entrance and make it accessible.
+Ensure that accessible entrance can be used independently and during the same hours as the main entrance 
+
+1.39 Do all inaccessible entrances have signs indicating the location of the nearest accessible entrance? 
+[216.6] 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install signs 
+Install signs on route before people get to inaccessible entrances so that people do not have to turn around and retrace route
+
+1.40 If not all entrances are accessible, is there a sign at the accessible entrance with the international symbol of accessibility? 
+[216.6]  
+Yes or No 
+Comments: 
+Photo Number: 
+Possible solution: Install sign 
+
+1.41 Is the clear opening width of the accessible entrance door at least 32 inches, between the face of the door and the stop, when the door is open 90 degrees? 
+[404.2.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter door, install offset hinges 
+
+1.42 If there is a front approach to the pull side of the door, is there at least 18 inches of maneuvering clearance beyond the latch side plus at least 60 inches clear depth? 
+Yes or No 
+On both sides of the door, is the ground or floor surface of the maneuvering clearance level (no steeper than 1:48)? 
+Note: See 2010 Standards 404.2.4 for maneuvering clearance requirements on the push side of the door and side approaches to the pull side of the door.  Here is the link http://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4, scroll down to 4.4.2.4.
+Yes or No 
+[404.2.4]
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstruction, reconfigure walls, add automatic door opener 
+
+1.43 Is the door threshold no more than 1/4 inches high?
+Yes or No 
+OR
+No more than 3/4 inch high with a sloped section beveled no steeper than 1:2? (if installed before 1/26/93)
+Yes or No 
+OR
+No more than 1/2 inches with a sloped section beveled no steeper than 1:2 (if installed on or after 1/26/93)?
+[404.2.5, 303.2] 
+Yes or No 
+Note: The first 1/4 inches of the 1/2 or 3/4 inch threshold may be vertical; the rest must be beveled. 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove or replace threshold 
+
+1.44 Is the door equipped with hardware that is operable with one hand and does not require tight grasping, pinching or twisting of the wrist? 
+Yes or No 
+Door handle? 
+Yes or No 
+Lock if provided? 
+Yes or No 
+[404.2.7]
+Comments: 
+Photo Number: 
+Possible Solution: Replace inaccessible knob with lever, loop or push hardware, add automatic door opener 
+
+1.45 Are the operable parts of the door hardware no less than 34 inches and 48 inches above the floor or ground surface? 
+Yes or No 
+[404.2.7] 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Change hardware height 
+
+1.46 If the door has a closer, does it take at least 5 seconds to close from an open position of 90 degrees to a position of 12 degrees from the latch? 
+Yes or No 
+[404.2.8] 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust closer 
+
+1.47 If there are two doors in a series, e.g. vestibule, is the distance between the doors at least 48 inches plus the width of the doors when swinging into the space? 
+Yes or No 
+[404.2.6] 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove inner door, change door swing 
+
+1.48 If provided at the building entrance, are carpets or mats no higher than ½ inch think?  
+[302.2] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Replace or remove mats 
+
+1.49 Are edges of carpets or mats securely attached to minimize tripping hazards? 
+[302.2] 
+Yes or No 
++Comments: 
+Photo Number: 
+Possible Solution: Secure carpeting or mats at edges 
+

@@ -1,0 +1,203 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Recreational Boating Facilities
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty               
+
+Survey information: 
+Project 
+Building 
+Location  
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+
+Recreational Boating Facilities should be accessible to everyone, including people with disabilities.
+Boating Facilities (Recreational) (2010 Standards – 206, 235  & 1003)
+
+B1 Is there an accessible route to the entrance of the boating facility?  
+(Use the checklist for Priority 1: Approach & Entrance.)
+yes or no
+Solutions: Add a ramp
+Regrade to 1:20 maximum slope
+Widen route
+Change route surface
+Add a platform lift, limited use/limited application elevator or a regular elevator
+
+B2 Boat slips 
+Where boat slips are provided are there an adequate number of accessible slips?
+yes or no
+Total slips:
+Accessible slips:
+(If slips are not demarcated by length, count each 40 feet of slip edge along the pier perimeter as one slip.
+if the total splits is between 1 - 25 you need 1 accessible splits
+if the total splits is between 26 - 50 you need 2 accessible splits
+if the total splits is between 51 - 100 you need 3 accessible splits
+if the total splits is between 101 - 150 you need 4 accessible splits
+if the total splits is between 151 - 300 you need 5 accessible splits
+if the total splits is between 301 - 400 you need 6 accessible splits
+if the total splits is between 401 - 500 you need 7 accessible splits
+if the total splits is between 501 - 600 you need 8 accessible splits
+if the total splits is between 601 - 700 you need 9 accessible splits
+if the total splits is between 701 - 800 you need 10 accessible splits
+if the total splits is between 801 - 900 you need 11 accessible splits
+if the total splits is between 901 - 1000 you need 12 accessible splits
+if the total splits is between 1001 and over - 700 you need 12 plus 1 for each 100 or fraction accessible splits)
+Solutions: Create accessible slips
+
+B3 Are the accessible boat slips dispersed among the different types of boat slips?
+yes or no
+(Accessible boat slips must be dispersed throughout the various types of slips, but a facility does not have to provide more accessible boat slips than required in the table. Accessible slips may be grouped on one pier if the requirement for different types of slips is met. Types could include shallow-water or deep water; transient or longer-term lease; covered or uncovered; and whether slips are equipped with features such as telephone, water, electricity, or cable connections.)
+Solution: Relocate accessible slips
+
+B4 Is there an accessible route to the accessible boat slips?
+yes or no
+Use the checklist for Priority 1: Approach and Entrance
+(To deal with varying water levels, exceptions apply when gangways are part of the accessible route.  A gangway is a variable-sloped pedestrian walkway that links a fixed structure or land with a floating structure.
+Exceptions:
+1. Gangway rises may be greater than 30 inches. Therefore gangways may be any length and no intermediate landings are required.
+2. Gangway slopes may be greater than 1:12 if the total length of a gangway or series of gangways serving as part of the accessible route is at least 80 feet.
+3. Gangway slopes may be greater than 1:12 if the facility contains fewer than 25 boat slips and the total length of the gangway or series of gangway serving as part of the accessible route is at least 30 feet.
+4. Level landings are not required where gangways connect to transition plates. A transition plate is a sloped pedestrian surface at the end of a gangway.
+5. Where gangways and transition plates connect, handrail extensions are not required.
+6. If there are handrail extensions on gangways or transition plates, the extensions are not required to be parallel with the ground surface.  
+7. Changes in level ¼ to ½ inch high, beveled with a slope no steeper than 1:20 are permitted on gangway surfaces.
+Note: When gangways, transition plates and floating piers and platforms are part of an accessible route, the cross slope requirement of 1:48 maximum is measured when they are in the static position, i.e. absence of movement that results from waves and wind.)
+Solution: Add a ramp
+Regrade to 1:20 maximum slope
+Widen route
+Change route surface
+Add a platform lift, limited use/limited application elevator or a regular elevator 
+
+B5 If there are transition plates is the slope of transition plates no greater than 1:20?
+yes or no
+Measurement:
+If the slope is greater than 1:20 is a there a landing at the end of the transition plate?
+yes or no
+Measurement:
+Solution: Regrade to 1:20 maximum slope
+
+B6 Is there clear pier space at the accessible boat slips that is:
+At least as long as the slip by at least 60 inches wide?
+yes or no
+Measurement:
+Or At least 36 inches wide for a length no greater than 24 inches, if multiple 36 inch wide segments are separated by segments that are at least 60 inches wide and at least 60 inches long? 
+yes or no
+Measurement:
+(Clear pier space may be perpendicular to the boat slip if the space extends the width of the slip and the facility has at least one accessible boat slip parallel to the pier.)
+Solutions: Add clear space
+Reconfigure clear space
+
+B7 For every 10 feet of linear pier edge serving the slips, is there a continuous clear opening at least 60 inches wide?
+yes or no
+Measurement:
+If there is edge protection at the clear opening, is it no higher than 4 inches and no wider than 2 inches?
+yes or no
+Measurement:
+Solutions: Add clear openings
+Relocate clear openings
+Change edge protection
+
+B8 If there are controls and operating mechanisms, such as hose bibbs, water supply hoses, outlets for electrical power, telephones, or cable TV:
+Are they on an accessible route?
+yes or no
+Is there a clear floor space next to each that is at least 30 inches by at least 48 inches?
+yes or no
+Measurement:
+Are operable parts no higher than 48 inches and no lower than 15 inches above the surface?*
+(If constructed before 3/15/2012 and a side reach is provided operable parts may be no higher than 54 inches and no lower than 9 inches )
+yes or no
+Measurement:
+Solutions: Relocate controls and/or operating mechanisms
+Relocate route
+Add clear floor space
+Change height of controls and/or operating mechanisms
+
+B9 If there are cleats or other securement devices serving the accessible boat slips:
+Are they on an accessible route?
+yes or no
+Is there a clear floor space next to each that is at least 30 inches by at least 48 inches?
+yes or no
+Measurement:
+(Cleats and other boat securement devices at accessible slips can be any height; they do not have to comply with reach range requirements.)
+Solutions: Relocate securement devices
+Add clear floor space
+
+B10 Boarding piers at boat launch ramps
+Where boarding piers are provided at boat launch ramps, are at least 5 percent, but no fewer than one, accessible?
+yes or no
+Number:
+(A boarding pier is where a boat is temporarily moored for embarking and disembarking. A boat launch ramp is a sloped surface for launching and retrieving trailered boats to and from the water. For boarding piers that are not part of a boat launch ramp, use the boat slips section.)
+Solution: Create accessible boarding piers
+
+B11 Is there an accessible route to and connecting the accessible boarding piers? 
+yes or no
+Use the checklist for Priority 1: Approach & Entrance.
+(To deal with varying water levels, exceptions apply when an accessible route connects to floating piers. 
+Exceptions:
+1. Where the accessible route serving a floating boarding pier or skid pier is within a boat launch ramp, that portion does not have to comply with ramp requirements.
+2. Gangway rises may be greater than 30 inches. Therefore gangways may be any length and no intermediate landings are required.  A gangway is a variable-sloped pedestrian walkway that links a fixed structure or land with a floating structure.
+3. Gangway slopes may be greater than 1:12 if the total length of a gangway or series of gangways serving as part of the accessible route is at least 30 feet.
+4. Landings are not required where gangways connect to transition plates. A transition plate is a sloped pedestrian surface at the end of a gangway.
+5. Where gangways and transition plates connect, handrail extensions are not required.
+6. If there are handrail extensions on gangways or transition plates, the extensions are not required to be parallel with the ground surface.
+7. Changes in level ¼ to ½ inch high, beveled with a slope no steeper than 1:20 are permitted on gangway surfaces.)
+Solutions: Add a ramp
+Regrade to 1:20 maximum slope
+Lengthen gangway
+Widen route
+Change route surface
+Add a platform lift, limited use/ limited application elevator or a regular elevator
+
+B12 Is there clear pier space at the boarding pier that is the full length of the boarding pier and:
+At least 60 inches wide?
+yes or no
+Measurement:
+Or At least 36 inches wide for a length of no greater than 24 inches if there are multiple 36-inch-wide segments that are separated by segments measuring at least 60 inches wide and at least 
+60 inches long?
+yes or no
+Measurement:
+(There is no minimum length of the pier. The accessible boarding pier should be at least as long as other piers provided at the facility.)
+Solutions: Add clear space
+Reconfigure clear space
+
+B13 Is there at least one continuous clear opening 60 inches wide for no more than 10 feet each of linear pier edge?
+yes or no
+Measurement:
+If there is edge protection at the clear opening, is it no higher than 4 inches and no wider than 2 inches?
+yes or no
+Measurement:
+Solutions: Add clear openings
+Relocate clear openings
+Change edge protection
+
+B14 If there are controls and operating mechanisms, such as hose bibbs, water supply hoses, outlets for electrical power:
+Are they on an accessible route?
+yes or no
+Is there a clear floor space next to each that is 30 inches by 48 inches minimum?
+yes or no
+Measurement:
+Are operable parts no higher than 48 inches and no lower than 15 inches above the surface?
+(If constructed before 3/15/2012 and a side reach is provided operable parts may be no higher than 54 inches and no lower than 9 inches above the surface.)
+yes or no
+Measurement:
+Solutions: Relocate controls and/or operating mechanisms
+Relocate route
+Add clear floor space
+Change height of controls and/or operating mechanisms
+
+B15 If there are cleats or other securement devices serving boarding piers at boat launch ramps:
+Are they on an accessible route?
+yes or no
+Is there a clear floor space next to each that is at least 30 inches by at least 48 inches?
+yes or no
+Measurement:
+(Cleats and other boat securement devices at boarding piers at boat launch ramps can be any height; they do not have to comply with reach range requirements.)
+Solutions: Relocate securement devices
+Add clear floor space

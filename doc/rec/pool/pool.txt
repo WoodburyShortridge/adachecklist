@@ -1,0 +1,494 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Swimming Pools, Wading Pools & Spas
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty    
+Survey information: 
+Project 
+Building
+Location
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+Swimming pools, wading pools and spas should be accessible to everyone, including people with disabilities.
+Swimming Pools, Wading Pools & Spas (2010 Standards – 242 & 1009)
+
+P1 Is there an accessible route to the entrance of the facility containing a swimming pool, wading pool and spa?
+(Use the checklist for Priority 1: Approach & Entrance.)
+yes or no
+Solutions:Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+P2 Is there an accessible route from the facility entrance to the swimming pool, wading pool and/or spa?
+(Use the checklist for Priority 2: Access to Goods & Services.)
+yes or no
+Solutions:Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+P3 If there is a swimming pool with 300 or more linear feet of pool wall:
+Does it have a sloped entry or lift? 
+yes or no
+Is there a second means of entry that is a transfer wall, transfer system, sloped entry, lift or stairs?
+yes or no
+Solutions:Add a sloped entry
+Install a lift
+Add a second means of entry
+
+P4 If there is a swimming pool with less than 300 linear feet of pool wall, does it have a sloped entry or lift?
+yes or no
+Solutions:Add a sloped entry
+Install a lift
+
+P5 If there is a wave action pool, leisure river, sand bottom pool, or other pool where user access is limited to one area, does it have a pool lift, sloped entry or transfer system?
+yes or no
+Solutions:Install a pool lift
+Add a sloped entry
+Install a transfer system
+
+P6 If there is a wading pool, does it have a sloped entry?
+yes or no
+Solution:Add a sloped entry
+
+P7 If there is a spa, does it have a pool lift, transfer wall or transfer system?
+yes or no
+Solutions:Install a pool lift
+
+P8 If there is a catch pool does it have an accessible route to the edge of the pool?
+Note:  A catch pool has water slide flumes that drop users into the water.  They are not required to provide an accessible means of entry or exit.
+yes or no
+Solutions:
+
+P9 Pool Lift
+If a pool lift is provided:
+Is it located where the water level is no greater than 48 inches?
+yes or no
+Measurement:
+(If the entire pool depth is greater than 48 inches, the pool lift may be located at any water depth.)
+Solution:Relocate lift
+
+P10 Is there a clear deck space on the side of the seat opposite the water that is at least 36 inches wide?
+yes or no
+Measurement:
+Solution:Add clear space
+
+P11 Is the slope of the clear deck space no greater than 1:48? 
+yes or no
+Measurement:
+Solution:Regrade to 1:48 maximum slope
+
+P12 Does the height of the lift seat allow a stop at no less than 16 inches and no greater than 19 inches measured from the deck to the top of the seat surface when in the raised (load) position?
+yes or no
+Measurement:
+Solution: Change seat height
+
+P13 Is the lift seat at least 16 inches wide?
+yes or no
+Measurement:
+Solution:Alter seating
+
+P14 Does the seat submerge to a water depth of at least 18 inches below the stationary water level?
+yes or no
+Measurement:
+Solution:Change submersion depth
+
+P15 Is the centerline of the seat located over the deck and at least 16 inches from the edge of the pool?
+yes or no
+Measurement:
+Solution:Relocate seat
+
+P16 Does the deck surface between the centerline of the seat and the pool edge have a slope no greater than 1:48?
+yes or no
+Measurement:
+Solution:Regrade to 1:48 maximum slope
+
+P17 Is there a footrest that moves with the seat?
+yes or no
+(Footrests are not required on pool lifts provided in spas.)
+Solution:Add a footrest
+
+P18 If there is an armrest, is it removable or does it fold clear of the seat when the seat is in the raised (load) position?
+yes or no
+Solutions:Add removable armrest
+Add folding armrest
+
+P19 Can the person using the lift do so without assistance and call the lift when it is in the deck and the water positions?
+yes or no
+Solution:Alter lift
+
+P20 Are the controls and operating mechanisms unobstructed when the lift is in use?
+yes or no
+Solutions:Remove obstructions
+Relocate controls and/or operating mechanisms
+
+P21 Are the controls and operating mechanisms operable with one hand and without tight grasping, pinching or twisting of the wrist?
+yes or no
+Do they require no more than 5 pounds of pressure to operate?
+yes or no
+Measurement:
+Solutions:Adjust controls and/or operating mechanisms
+Replace controls and/or operating mechanisms
+
+P22 Does the lift have a weight capacity of at least 300 pounds and capable of sustaining a static load of at least one and a half times the rated load?
+yes or no
+Max weight:
+Solution:Replace lift
+
+P23 Sloped Entry
+If a sloped entry is provided:
+Is the width at least 36 inches?
+yes or no
+Solution:Widen entry
+
+P24 Is the surface stable and firm?
+yes or no
+(Sloped entry surfaces are not required to be slip resistant.)
+Solution:Resurface sloped entry surface
+
+P25 Does the sloped entry extend to a depth at least 24 inches and no greater than 30 inches below the stationary water level?
+yes or no
+Measurement:
+Or
+If this is a wading pool, does the sloped entry and landings, if provided, extend to the deepest part of the pool?
+yes or no
+Measurement:
+Solution:Lengthen sloped entry
+
+P26 Is the running slope no greater than 1:12?
+yes or no
+Measurement:
+Solution:Regrade to 1:12 maximum slope
+
+P27 If the running slope is steeper than 1:20 are there level landings at the top and bottom of the sloped entry that are at least 60 inches long and as wide as the sloped entry?
+yes or no
+Measurement:
+Solution:Add landings
+
+P28 If the running slope is steeper than 1:20 and the sloped entry is more than 30 feet long, are there level landings at least 60 inches long and as wide as the sloped entry at intervals no less than 30 feet?
+yes or no
+Measurement:
+Solution:Add landings
+
+P29 Is the cross slope no greater than 1:48?
+yes or no
+Measurement:
+Solution:Regrade to 1:48 maximum slope
+
+P30 Are there handrails on both sides of the sloped entry?
+yes or no
+(If this is a wading pool, handrails are not required.  If handrails are provided the 2010 Standards specifications for handrails do not apply.)
+Solution:Add handrails
+
+P31 Do the handrails extend at least 12 inches beyond the top of the sloped entry?
+yes or no
+Measurement:
+(Handrail extensions are not required at the bottom landing.)
+Solutions:Add extensions
+Reconfigure handrails
+
+P32 Is the width between handrails at least 33 inches and no greater than 38 inches?
+yes or no
+Measurement:
+(If this is a wave action pool, leisure river, sand bottom pool, or other pool where user access is limited to one area, the width between handrails is not specified.)
+Solution:Relocate handrails
+
+P33 Is the top of the handrail gripping surface no less than 34 inches and no greater than 38 inches above the sloped entry surface?
+yes or no
+Measurement:
+(Handrails are not required below the stationary water level.)
+Solution:Change handrail height
+
+P34 If the handrail gripping surface is:
+Circular, is the diameter no less than 1 ¼ inches and no greater than 2 inches?
+yes or no
+Measurement:
+Or
+Non-circular, is the perimeter no less than 4 inches and no greater than 6 ¼ inches and the cross section no more than 2¼ inches?
+yes or no
+Measurement:
+Solution:Replace handrail
+
+P35 Transfer Wall
+If a transfer wall is provided:
+Is there a clear deck space at the base of the transfer wall that is at least 60 inches wide and at least 60 inches long?
+yes or no
+Measurement:
+Note: A transfer wall allows a person to leave a mobility device, such as a wheelchair, transfer onto the wall and into the pool or spa.
+Solution:Add clear space
+
+P36 Is the slope of the clear deck space no greater than 1:48?
+yes or no
+Measurement:
+Solution: Regrade to 1:48 maximum slope
+
+P37 Is there at least one grab bar?
+yes or no
+Solution:Add grab bar(s)
+
+P38 Is/are the grab bar(s) perpendicular to the pool wall?
+yes or no
+Solution:Relocate grab bar(s)
+
+P39 Does/do the grab bar(s) extend the full depth of the transfer wall?
+yes or no
+Solution:Add extensions
+Reconfigure grab bar(s)
+
+P40 Is the top of the grab bar(s) gripping surface at least 4 inches and no greater than 6 inches above the transfer wall? 
+yes or no
+Measurement:
+Solution:Change grab bar height
+
+P41 If the grab bar(s) gripping surface is:
+Circular, the diameter no less than 1 ¼ inches and no greater than 2 inches?
+yes or no
+Measurement:
+Or
+Non-circular, is it no less than 4 inches and no greater than 4.8 inches in perimeter and no more than 2 inches in cross section?
+yes or no
+Measurement:
+Solution:
+
+
+P42 Is the space between the grab bar(s) and projecting objects above at least 12 inches? 
+yes or no
+Measurement:
+Solution:Relocate objects
+
+P43 Can the grab bar(s) support at least 250 pounds at any point on the grab bar(s), fastener, mounting device, or supporting structure?
+yes or no
+Max weight:
+Solution:Replace grab bar(s)
+
+P44 If there is one grab bar:
+Is the clear deck space centered on the grab bar?
+yes or no
+Is there at least 24 inches of clearance on both sides?
+yes or no
+Measurement:
+Solutions:Relocate grab bar(s)
+Reconfigure space
+
+P45 If there are two grab bars:
+Is the clear deck space centered on the clearance between the grab bars?
+yes or no
+Is there at least 24 inches of clearance between the grab bars?
+yes or no
+Measurement:
+Solutions:Relocate grab bar(s)
+Reconfigure space
+
+P46 Is the transfer wall:
+No less than 16 inches and no greater than 19 inches in height, measured from the deck?
+yes or no
+Measurement:
+No less than 12 inches and no greater than 16 inches in depth?
+yes or no
+Measurement:
+No less than 60 inches in length?
+yes or no
+Measurement:
+Solution:Change wall height
+Change wall depth
+Lengthen wall
+
+P47 Is the length of the transfer wall centered on the clear deck space?
+yes or no
+Solutions:Relocate wall
+Reconfigure clear deck space
+
+P48 Is the surface of the transfer wall smooth with rounded edges?
+yes or no
+Measurement:
+Solution:Resurface wall
+
+P49 Transfer System
+If a transfer system is provided:
+Is there a transfer platform at the head of each system?
+yes or no
+Is the transfer platform at least 19 inches deep and at least 24 inches wide?
+yes or no
+Measurement:
+(A transfer system has a platform and steps. Users transfer onto the platform from their wheelchair or other mobility device and bump in (and then out) of the pool on the steps.)
+Solution:Install platform
+
+P50 Is the transfer platform no less than 16 inches and no greater than 19 inches in height, measured from the deck? 
+yes or no
+Measurement:
+Solution:Change platform height
+
+P51 Is there a transfer space at least 60 inches wide and at least 60 inches long at the base of the transfer platform? 
+yes or no
+Measurement:
+Solutions: Add transfer space
+Reconfigure space
+
+P52 Is the slope of the transfer space no greater than 1:48?
+yes or no
+Measurement:
+Solution:Regrade to 1:48 maximum slope
+
+P53 Is the transfer space centered along a side of the transfer platform at least 24 inches long? 
+yes or no
+Measurement:
+Solutions:Relocate space
+Relocate platform
+
+P54 Is the side of the transfer platform serving the transfer space unobstructed?
+yes or no
+Measurement:
+Solutions:Remove obstructions
+Relocate platform
+
+P55 Are transfer steps no greater than 8 inches in height? 
+yes or no
+Measurement:
+Solution: Change step height
+
+P56 Are transfer step treads:
+At least 14 inches and no greater than 17 inches deep?
+yes or no
+Measurement:
+At least 24 inches wide?
+yes or no
+Measurement:
+Solution:Change tread depth
+Change tread width
+
+P57 Does the surface of the bottom tread of transfer steps extend to a water depth of at least 18 inches below the stationary water level?  
+yes or no
+Measurement:
+Solution:Lengthen bottom tread
+
+P58 Is the surface of the transfer system smooth with rounded edges?
+yes or no
+Measurement:
+Solution:Resurface transfer system
+
+P59 Is there at least one grab bar on each transfer step and the transfer platform?
+yes or no
+Or
+Is there a continuous grab bar serving each transfer step and the transfer platform?
+yes or no
+Solution:Add grab bar (s)
+
+P60 Is there a grab bar on at least one side of the transfer system?
+yes or no
+Measurement:
+Solution:Add grab bar(s)
+
+P61 If there is a grab bar on each step, are the tops of the gripping surfaces at least 4 inches and no greater than 6 inches above each step and transfer platform? 
+yes or no
+Measurement:
+Solution:Change grab bar height
+
+P62 If there is a continuous grab bar, is the top of the gripping surface at least 4 inches and no greater than 6 inches above the step nosing and transfer platform?
+yes or no
+Measurement:
+Solution:Change grab bar height
+
+P63 If the grab bar(s) gripping surface is:
+Circular, is it no less than 1 ¼ inches and no greater than 2 inches in diameter? 
+yes or no
+Measurement:
+Or
+Non-circular, is the cross section no greater than 2 inches and the perimeter no less than 4 inches and no greater than 4.8 inches?
+yes or no
+Measurement:
+Solution:Replace grab bar(s)
+
+P64 Is the space between the grab bar(s) and projecting objects above at least 12 inches?
+yes or no
+Measurement:
+Solution:Relocate objects
+
+P65 Can the grab bar(s) support at least 250 pounds at any point on the grab bar(s), fastener, mounting device, or supporting structure?
+yes or no
+Max weight:
+Solution:Replace grab bar(s)
+
+P66 Accessible Pool Steps
+If accessible pool steps are provided:
+Are there handrails on both sides of the steps?
+yes or no
+(Accessible pool steps assist with balance and support when moving from the pool deck and into and out of the water from a standing position.)
+yes or no
+Solution:Add handrails
+
+P67 Is the width between the handrails at least 20 inches and no greater than 24 inches?
+yes or no
+Measurement:
+Solution:Relocate handrails
+
+P68 Is the top of the handrail gripping surface no less than 34 inches and no greater than 38 inches above the sloped entry surface?
+yes or no
+Measurement:
+Solution:Change handrail height
+
+P69 If the handrail gripping surface is:
+Circular, is the diameter no less than 1 ¼ inches and no greater than 2 inches?
+yes or no
+Measurement:
+Or
+Non-circular, is the perimeter no less than 4 inches and no greater than 6 ¼ inches and the cross section no more than 2 ¼ inches?
+yes or no
+Measurement:
+Solution:Replace handrail
+
+P70 Do the handrails extend at least 12 inches horizontally beginning above the first riser nosing?
+yes or no
+Measurement:
+(Extensions at the bottom are not required)
+Solutions:Add extensions
+Reconfigure handrails
+
+P71 Do the extensions return to a wall, guard or the deck surface?
+yes or no
+Solutions: Reconfigure handrails
+Replace handrails
+
+P72 If a handrail is mounted on a wall, is the clear space between the handrail and wall 1½ inches?
+yes or no
+Measurement:
+Solution:Reconfigure handrails
+
+P73 Are riser heights of the steps uniform?
+yes or no
+Solution:Alter risers
+
+P74 Are tread depths uniform?
+yes or no
+Solution:Alter treads
+
+P75 Are treads at least 11 inches deep?
+yes or no
+Measurement:
+Solution:Alter treads
+
+P76 Is the radius of curvature at the leading edge of the step treads no greater than ½ inch?
+yes or no
+Measurement:
+Solution:Alter tread edges
+
+P77 If nosings project beyond the risers:
+Is the underside of the leading edge curved or beveled?
+yes or no
+Do nosings extend no greater than 1½ inches over the tread below?
+yes or no
+Measurement:
+Solution:Alter nosings
+
+P78 If the riser slopes under the tread is the slope angle no greater than 30 degrees from vertical? 
+yes or no
+Measurement:
+Solution:Alter riser slope angle
+
+P79 Are risers solid? 
+yes or no
+(Open risers are not allowed.)
+Solution:Alter risers

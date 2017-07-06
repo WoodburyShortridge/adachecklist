@@ -1,0 +1,537 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #eee;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.clearfix:after {
+  content: " "; /* Older browser do not support empty content */
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: .6875rem;
+  background: #302F84;
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  top: 0;
+}
+
+.blackScheme h1{
+  background: #000;
+}
+
+.redScheme h1{
+  background: #600000;
+}
+
+h2 {
+  color: #fff;
+  margin:0;
+  padding: .5rem 0;
+  font-size: 1.2rem;
+  font-weight:300;
+  text-align: center;
+}
+
+.land,
+.divider {
+  fill: #fff;
+  fill-opacity: 1;
+  stroke: #000;
+  stroke-opacity: 1;
+  stroke-width:0.5;
+}
+
+#topBar {
+  display: flex;
+  flex-direction: row;
+  background: #333;
+  padding-bottom: .5rem;
+  font-weight: normal;
+  width: 100%;
+  position: fixed;
+  top: 3.6875rem;
+  box-shadow: 0px 0px .5rem .25rem rgba(51,51,51,1);
+  z-index: 5;
+}
+
+#buttonCont,
+#colorCont {
+    margin: auto;
+}
+
+#buttonCont {
+  width: 11.378125rem;
+}
+
+#buttonCont button,
+#colorCont button {
+  float: left;
+  height: 3rem;
+  background: #fff;
+  font-size: 1.125rem;
+  padding: 0 1rem;
+  cursor: pointer;
+}
+
+#buttonCont button,
+#colorCont button {
+  border: 1px solid #1a1a1a;
+  border-left: none;
+}
+
+#buttonCont button.current {
+  background: #302F84;
+  color: #fff;
+}
+
+.blackScheme #buttonCont button.current {
+  background: #000;
+  color: #fff;
+}
+
+.redScheme #buttonCont button.current {
+  background: #600000;
+  color: #fff;
+}
+
+#blueButton.current {
+  background: #302784;
+  color: #fff;
+}
+
+#blackButton.current {
+  background: #000;
+  color: #fff;
+}
+
+#redButton.current {
+  background: #600000;
+  color: #fff;
+}
+
+#buttonCont #mapButton,
+#colorCont button:first-child {
+  border-top-left-radius: .5rem;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: .5rem;
+  border-bottom-right-radius: 0;
+  border-left: 1px solid #1a1a1a;
+}
+
+#rawButton,
+#colorCont button:last-child {
+  border-top-right-radius: .5rem;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: 0;
+}
+
+#mapCont {
+  margin: auto;
+  background: #fff;
+  padding-top: 11.0625rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#mapCont.hiddenKey {
+  width: 68.75rem;
+}
+
+svg {
+  width: 68.75rem;
+  height: 50rem;
+  float: left;
+}
+
+.selectedData {
+  margin: auto;
+  background: white;
+  padding: 11.0625rem 4rem 1rem;
+}
+
+table.selectedData tr,
+div.selectedData div {
+  width: 20%;
+  border: 1px black solid;
+  float: left;
+  padding: .125rem 1rem .125rem;
+}
+
+table.selectedData td,
+div.selectedData label,
+div.selectedData input {
+  display: inline-block;
+}
+
+table.selectedData td:first-child,
+div.selectedData label {
+  width: 75%;
+}
+
+table.selectedData td:last-child,
+div.selectedData input {
+  width: 24%;
+  text-align: right;
+  float: right;
+}
+
+/*
+#dataDrop {
+  height: 3rem;
+}
+*/
+
+#dataSet {
+  margin: auto;
+  width: 10rem;
+  height: 3rem;
+  border-radius: .5rem;
+  padding: 0 .5rem;
+  font-size: 1.06125rem;
+  display: block;
+}
+
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:.5rem;
+	color:#fff;
+	font-size:1rem;
+  text-align: center;
+}
+
+.notShowMain,
+#mapCont.notShowMain,
+.notSelectedData {
+  display: none;
+}
+
+#key .inside {
+  border: 1px solid #000;
+  padding: .5rem;
+  margin: 13rem .5rem 0;
+}
+
+#key.hiddenKey {
+  display: none;
+}
+
+.swatch {
+  width: 2rem;
+  height: 2rem;
+  float: left;
+}
+
+.text {
+  float: left;
+  padding: .35rem .5rem 0;
+}
+
+#underMap {
+  clear: left;
+}
+
+/**********************************
+        SHADES
+**********************************/
+
+/*10*/
+.shade10{
+  fill: #302F84;
+}
+
+.square10 .swatch {
+  background: #302F84;
+}
+
+/*9*/
+.shade9 {
+  fill: #434291;
+}
+
+.square9 .swatch {
+  background: #434291;
+}
+
+/*8*/
+.shade8{
+  fill: #59579C;
+}
+
+.square8 .swatch{
+  background: #59579C;
+}
+
+/*7*/
+.shade7 {
+  fill: #6C6CA9;
+}
+
+.square7 .swatch {
+  background: #6C6CA9;
+}
+
+/*6*/
+.shade6 {
+  fill: #8180B5;
+}
+
+.square6 .swatch {
+  background: #8180B5;
+}
+
+/*5*/
+.shade5 {
+  fill: #9796C3;
+}
+
+.square5 .swatch {
+  background: #9796C3;
+}
+
+/*4*/
+.shade4 {
+  fill: #ACABCF;
+}
+
+.square4 .swatch {
+  background: #ACABCF;
+}
+
+/*3*/
+.shade3 {
+  fill: #C1C0DB;
+}
+
+.square3 .swatch {
+  background: #C1C0DB;
+}
+
+/*2*/
+.shade2 {
+  fill: #D5D6E8;
+}
+
+.square2 .swatch {
+  background: #D5D6E8;
+}
+
+/*1*/
+.shade1 {
+  fill: #EBECF5;
+}
+
+.square1 .swatch {
+  background: #EBECF5;
+}
+
+.shade0 {
+  fill: #fff;
+}
+
+/**********************************
+        black shades
+**********************************/
+
+/*10*/
+.blackScheme .shade10{
+  fill: #000;
+}
+
+.blackScheme .square10 .swatch {
+  background: #000;
+}
+
+/*9*/
+.blackScheme .shade9 {
+  fill: #1a1a1a;
+}
+
+.blackScheme .square9 .swatch {
+  background: #1a1a1a;
+}
+
+/*8*/
+.blackScheme .shade8{
+  fill: #333;
+}
+
+.blackScheme .square8 .swatch{
+  background: #333;
+}
+
+/*7*/
+.blackScheme .shade7 {
+  fill: #4d4d4d;
+}
+
+.blackScheme .square7 .swatch {
+  background: #4d4d4d;
+}
+
+/*6*/
+.blackScheme .shade6 {
+  fill: #666;
+}
+
+.blackScheme .square6 .swatch {
+  background: #666;
+}
+
+/*5*/
+.blackScheme .shade5 {
+  fill: #808080;
+}
+
+.blackScheme .square5 .swatch {
+  background: #808080;
+}
+
+/*4*/
+.blackScheme .shade4 {
+  fill: #999;
+}
+
+.blackScheme .square4 .swatch {
+  background: #999;
+}
+
+/*3*/
+.blackScheme .shade3 {
+  fill: #b3b3b3;
+}
+
+.blackScheme .square3 .swatch {
+  background: #b3b3b3;
+}
+
+/*2*/
+.blackScheme .shade2 {
+  fill: #ccc;
+}
+
+.blackScheme .square2 .swatch {
+  background: #ccc;
+}
+
+/*1*/
+.blackScheme .shade1 {
+  fill: #e6e6e6;
+}
+
+.blackScheme .square1 .swatch {
+  background: #e6e6e6;
+}
+
+/**********************************
+        red shades
+**********************************/
+
+/*10*/
+.redScheme .shade10{
+  fill: #600000;
+}
+
+.redScheme .square10 .swatch {
+  background: #600000;
+}
+
+/*9*/
+.redScheme .shade9 {
+  fill: #721a1a;
+}
+
+.redScheme .square9 .swatch {
+  background: #721a1a;
+}
+
+/*8*/
+.redScheme .shade8{
+  fill: #833333;
+}
+
+.redScheme .square8 .swatch{
+  background: #833333;
+}
+
+/*7*/
+.redScheme .shade7 {
+  fill: #954d4d;
+}
+
+.redScheme .square7 .swatch {
+  background: #954d4d;
+}
+
+/*6*/
+.redScheme .shade6 {
+  fill: #a76666;
+}
+
+.redScheme .square6 .swatch {
+  background: #a76666;
+}
+
+/*5*/
+.redScheme .shade5 {
+  fill: #b88080;
+}
+
+.redScheme .square5 .swatch {
+  background: #b88080;
+}
+
+/*4*/
+.redScheme .shade4 {
+  fill: #ca9999;
+}
+
+.redScheme .square4 .swatch {
+  background: #ca9999;
+}
+
+/*3*/
+.redScheme .shade3 {
+  fill: #dcb3b3;
+}
+
+.redScheme .square3 .swatch {
+  background: #dcb3b3;
+}
+
+/*2*/
+.redScheme .shade2 {
+  fill: #edcccc;
+}
+
+.redScheme .square2 .swatch {
+  background: #edcccc;
+}
+
+/*1*/
+.redScheme .shade1 {
+  fill: #ffe6e6;
+}
+
+.redScheme .square1 .swatch {
+  background: #ffe6e6;
+}
+

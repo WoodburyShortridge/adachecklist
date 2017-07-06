@@ -1,0 +1,306 @@
+body {
+  font-size: .95em;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: #2F2C82;
+}
+
+.display-5 {
+  font-size: 2.25rem;
+}
+
+h2 {
+  color: #2F2C82;
+  padding-top: 1rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  padding-top: 1rem;
+}
+
+.ada-grey {
+  background: #4D4D4D;
+  color: #fff;
+}
+
+.ada-grey a {
+  color: #fff
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.light-grey {
+  background: #DFE1E2;
+}
+
+.light-grey hr {
+  margin-left: -1.5rem;
+}
+
+.site-title {
+  color: #fff;
+  background: #2F2C82;
+}
+
+#buttons button {
+  font-weight: bold;
+  background: #4D4D4D;
+  color: #fff;
+  border: none;
+  padding: .25rem 0;
+}
+
+#buttons button:hover,
+#buttons button:focus,
+#buttons button.current {
+  background: #2F2C82;
+}
+
+#buttons {
+  padding: 0 .9375rem .5rem;
+}
+
+#buttons button:first-child {
+  border-right: 4px #fff solid;
+}
+
+#buttons button:last-child {
+  border-left: 4px #fff solid;
+}
+
+ol.form-group {
+  padding-left: 1rem;
+}
+
+#question3 li {
+  min-height: 38px;
+}
+
+ul.cld {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.cld img {
+  float: left;
+  max-width: 190px;
+}
+
+ul.cld ul{
+  list-style: none;
+  display: inline;
+  float: left
+}
+
+hr {
+  border: 1px solid #DFE1E2;
+  border-style:inset;
+}
+
+.posrel {
+  position: relative;
+}
+
+.posabs {
+  position: absolute;
+}
+
+#adannlogo {
+  width: 120px;
+  margin-left: calc(50% - 60px);
+}
+
+#ButtonSubmit {
+  color: #2F2C82;
+  border-color: #2F2C82;
+  border-radius: 8px;
+}
+
+#ButtonSubmit:hover,
+#ButtonSubmit:focus {
+  color: #fff;
+  background: #2f2c82;
+}
+
+#faqMenu{
+  margin: 0 0 1rem;
+}
+
+#faqMenu.has-js {
+  min-height: 2.5rem;
+  position: relative;
+  padding-left: 4rem!important;
+}
+
+#menuHam {
+  position: absolute;
+  left: .5rem;
+  top: .5rem;
+  height: 1.5rem;
+  width: 1.5rem;
+  cursor: pointer;
+}
+
+#contact {
+  text-align: left;
+}
+
+#checks a {
+  padding-left: 15%;
+}
+
+#checks a:first-child {
+  padding-bottom: 1rem;
+}
+
+.menuBottom {
+  list-style: none;
+  margin-left: -3rem;
+}
+
+.menuBottom div img {
+  width: 100%;
+  max-width: 6.25rem;
+}
+
+#topHeader {
+  margin: 0;
+}
+
+.first-facility {
+  float: left;
+}
+
+.third-facility {
+  clear: left;
+}
+
+.explanitory {
+  font-size: 87.5%;
+}
+
+/*-----------------------------
+    Small Breakpoint
+-----------------------------*/
+@media (min-width: 34em){
+  #adanntext {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  #adanntextwrap {
+    height: 100%;
+    position: absolute;
+    right: 0;
+  }
+  
+  #adannlogo {
+    width: 100%;
+    margin-left: 0;
+  }
+  
+  .howtodesc {
+    padding-top: 1rem;
+  }
+  
+  #contact {
+    text-align: right;
+  }
+  
+  #checks{
+    padding-left: 3.125%;
+    padding-right: 3.125%;
+  }
+  
+  #checks a {
+    padding-left: .9375rem;
+  }
+  
+  #checks a:first-child {
+    padding-bottom: 0;
+  }
+  
+  .menuBottom {
+    margin-left: -.9375rem;
+  }
+  
+  .posabs-sm {
+    position: absolute;
+  }
+  
+  .display-5 {
+    font-size: 2.5rem;
+  }
+
+  .third-facility {
+    clear: none;
+  }
+}
+
+/*-----------------------------
+    Medium Breakpoint
+-----------------------------*/
+@media (min-width: 48em){
+  #checks{
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+  }
+
+  .fourth-facility {
+    clear: left;
+  }
+}
+
+/*-----------------------------
+    Large Breakpoint
+-----------------------------*/
+@media (min-width: 62em){
+  #faqMenu.has-js {
+    padding-left: 2.5rem!important;
+  }
+  
+  #checks{
+    padding-left: 6.25%;
+    padding-right: 6.25%;
+  }
+  
+  .menuBottom {
+    margin-left: -.9375rem;
+  }
+
+  .fourth-facility {
+    clear: none;
+  }
+}
+
+/*-----------------------------
+    Extra-Large Breakpoint
+-----------------------------*/
+@media (min-width: 75em){
+  #checks{
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+  }
+
+  .fourth-facility {
+    clear: left;
+  }
+}
+

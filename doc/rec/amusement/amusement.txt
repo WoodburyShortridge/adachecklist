@@ -1,0 +1,317 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Amusement Rides
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty               
+
+Survey information: 
+Project 
+Building 
+Location  
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+
+Amusement rides should be accessible to everyone, including people with disabilities.
+Amusement Rides (2010 Standards -  206, 216, 234 & 1002) Note: Mobile or portable amusement rides such as traveling carnivals, state and county fairs, and festivals are not required to comply.
+
+A1 Is there an accessible route to the entrance of the facility containing amusement rides?
+Use the checklist for Priority 1: Approach & Entrance.
+yes or no
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+A2 Does each amusement ride have a seat designed for transfer, a wheelchair space, or a transfer device?
+yes or no
+If yes, which is provided?  
+Transfer Seat
+Wheelchair Space
+Transfer Device
+(1.Rides are not required to  have a wheelchair space, a seat designed for transfer or a transfer device if:
+No seating 
+Controlled or operated by rider
+Designed primarily for children, where children are assisted on and off by an adult
+2.A transfer device may be either permanent or temporary. Transfer devices that could be adapted to provide access onto an amusement ride include, but are not limited to, lifts, mechanized seat and transfer systems)
+Solutions: Add transfer seat
+Add wheelchair space
+Add transfer device
+
+A3 Is there a sign identifying the type of access provided on amusement rides at the entry to the queue or waiting lines?
+yes or no
+Solutions:Add sign
+
+A4 If the accessible unload area also serves as the accessible load area, is there a sign at the entry to the queue or waiting lines indicating the location of the accessible load and unload area?
+yes or no
+Solutions:Add sign
+
+A5 Is there an accessible route to each load and unload area?
+yes or no
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+A6 Is there a clear floor space for a person in wheelchair to turn around, i.e. a circle at least 60 inches in diameter or a T-shaped space within a 60-inch square:
+In the load area?
+yes or no
+Measurement:
+In the unload area?
+yes or no
+Measurement:
+Solutions:Add space
+Move or remove partitions, fixtures or objects
+
+A7 If there is more than one loading position in the load area, is there an accessible route to at least one loading position in that area?
+yes or no
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+A8 If there is more than one unloading position in the unload areas, is there an accessible route to at least one unloading position in that area?
+yes or no
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+A9 Amusement ride seat designed for transfer
+If a seat designed for transfer is provided is there an accessible route to the seat when the ride is in the:
+Load position?
+yes or no
+Unload position?
+yes or no
+Exceptions in load or unload areas and on amusement ride:
+(1.If a ramp is part of the accessible route and it is structurally or operationally infeasible for the slope to be no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of curb ramp run, the slope may be no greater than 1:8.
+2.If it is structurally or operationally infeasible to provide handrails on the ramp, handrails are not required.)
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator
+
+A10 Is there a clear floor/ground space for wheelchair storage no less than 30 inches wide and no less than 48 inches long, adjacent to the unload area, but not overlapping the accessible route or any required means of egress?
+yes or no
+Measurement:
+Solutions: Add space
+Move or remove partitions, fixtures or objects
+
+A11 Is there a clear floor/ground space no less than 30 inches wide and no less than 48 inches long adjacent to the seat designed for transfer when positioned for: 
+Loading in the load area?
+yes or no
+Measurement:
+Unloading in the unload area?
+yes or no
+Measurement:
+Solutions: Add space
+Move or remove partitions, fixtures or objects
+Reconfigure space
+
+A12 Is the height of the seat no less than 14 inches and no greater than 24 inches from the surface of the load and unload area?
+yes or no
+Measurement:
+Solutions: Change seat height
+
+A13 If there is an opening for the transfer seat, is there clearance for a person in a wheelchair to transfer from the wheelchair to the seat?
+yes or no
+Solutions: Add space
+Move or remove partitions, fixtures or objects
+
+A14 Wheelchair space
+If a wheelchair space is provided is there an accessible route to the wheelchair space when the ride is in the:
+Load position?
+yes or no
+Unload position?
+yes or no
+(Exceptions in load or unload areas and on amusement ride:
+1. If a ramp is part of the accessible route and it is structurally or operationally infeasible for the slope to be no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of curb ramp run, the slope may be no greater than 1:8.
+2. If it is structurally or operationally infeasible to provide handrails on the ramp, handrails are not required.)
+Solutions:
+
+A15 Is the entry opening to the wheelchair space at least 32 inches wide?
+yes or no
+Measurement:
+Solutions:Widen opening
+
+A16 Does at least one side of the wheelchair space adjoin the accessible route when in the load and unload position?
+yes or no
+Solutions: Relocate wheelchair space
+Relocate route
+
+A17 If the wheelchair space is entered only from the side, is there sufficient maneuvering clearance for a person in a wheelchair to enter and exit the ride?
+yes or no
+(The amount of clear space needed within the ride, and the size and position of the opening are interrelated. A 32 inch clear opening will not provide sufficient width when entered through a turn into an amusement ride. Additional space for maneuvering and a wider door will be needed where a side opening is centered on the ride. For example, where a 42 inch opening is provided, a minimum clear space of 60 inches in length and 36 inches in depth is needed to ensure adequate space for maneuvering.)
+Solutions: Reconfigure space
+Eliminate turn into ride
+Widen opening
+
+A18 Is the clear wheelchair space at least 30 inches wide and at least 48 inches long?
+yes or no
+Measurement:
+Solutions:Reconfigure space
+
+A19 Do objects up to at least 9 inches above the floor/ground surface not protrude into the wheelchair space?
+yes or no
+Measurement:
+Do objects that are at least 9 inches and no greater than 27 inches above the floor/ground surface protrude no more than 6 inches along the front of the wheelchair space?
+yes or no
+Measurement:
+Do objects more than 27 inches above the floor/ground protrude no more than 25 inches along the front of the wheelchair space?
+yes or no
+Measurement:
+(Where provided securement devices are permitted to overlap required clearances.
+Wheelchair spaces are permitted to be mechanically or manually repositioned.)
+Solutions: Remove obstructions
+Reposition obstructions
+Reposition wheelchair space
+
+A20 Is the floor or ground surface of the wheelchair space:
+No greater than 1:48 slope?
+yes or no
+Measurement:
+Stable, firm and slip-resistant?
+yes or no
+Solutions: Regrade to 1:48 maximum slope
+Resurface floor or ground surface
+
+A21 If the interior width of the ride is greater than 53 inches, seating is provided for more than one rider, and the wheelchair is not required to be centered within the ride, is there a companion seat?
+yes or no
+Solutions:Add companion seat
+
+A22 If there is shoulder-to-shoulder seating on the ride, is the companion seat shoulder-to-shoulder with the wheelchair space?
+yes or no
+Or If this is not operationally or structurally feasible, is there equal shoulder-to-shoulder seating to the maximum extent possible?
+yes or no
+Solutions: Alter seating
+
+A23 When the ride is at rest in the load and unload positions, is the vertical difference between the floor/ground and the floor of the wheelchair space plus or minus 5/8 inches?
+yes or no
+Measurement:
+Or If this is not operationally or structurally feasible, are ramps, bridge plates, or similar devices provided? 
+yes or no
+Solutions:Adjust ride
+Add ramp
+Add bridge plate
+
+A24 If ramps, bridge plates or similar devices must be provided are there barriers at least 2 inches high on each side of the device? 
+yes or no
+Measurement:
+Solutions: Add barriers
+
+A25 Is the surface of the device:
+Continuous?
+yes or no
+Slip resistant?
+yes or no
+With no protrusions from the surface greater than ¼ inch?
+yes or no
+Measurement:
+With clear width of 30 inches?
+yes or no
+Measurement:
+Solutions: Resurface device surface
+Remove obstructions
+Alter device surface
+Install new device
+
+A26 Is the transition from the load/unload areas and from the ride floor to the device no greater than ¼ inch if vertical or if the transition is higher than ¼ inch is it no greater than ½ inch and beveled with a slope no greater than 1:2?
+yes or no
+Measurement:
+Solutions: Change transition height
+Add 1:2 maximum bevel
+
+A27 Does the device have the least slope practicable?
+yes or no
+If the height of the ride floor, under 50% passenger load, from which the device is deployed is:
+3 inches or less above the load/unload area, is the slope no greater than 1:4?
+yes or no
+Measurement:
+6 inches or less, but more than 3 inches, above the load/unload area, is the slope no greater than 1:6? 
+yes or no
+Measurement:
+9 inches or less, but more than 6 inches, above the load/unload area, is the slope no greater than 1:8?
+yes or no
+Measurement:
+Greater than 9 inches above the load/unload area, is the slope no greater than 1:12?
+yes or no
+Measurement:
+Solutions: Regrade slope
+
+A28 If handrails are provided:
+Do they allow persons with disabilities to grasp them from outside the ride while starting to board, and to continue to use them throughout the boarding process?
+yes or no
+Is the top of the handrail between 30 inches and 38 inches above the devices surface?
+yes or no
+Measurement:
+Are the handrails capable of withstanding a force of 100 pounds concentrated at any point on the handrail without permanent deformation of the rail or its supporting structure?
+yes or no
+Measurement:
+Does the handrail have a cross-sectional diameter between 1¼ inches and 1½ inches or provide an equivalent grasping surface, and have eased edges with corner radii of not less than 1/8 inch?
+yes or no
+Measurement:
+Do the handrails not interfere with wheelchair or mobility aid maneuverability when entering or leaving the ride?
+yes or no
+Measurement:
+Solutions: Replace handrails
+Change handrail height
+
+A29 If the device is shorter than 30 inches can it support a load of 300 pounds?
+yes or no
+Weight:
+If the device is at least 30 inches or longer can it support a load of 600 pounds, placed at the centroid of the device distributed over an area of 26 inches by 26 inches, with a safety factor of at least 3 based on the ultimate strength of the material?
+yes or no
+Weight:
+Solutions: Replace device
+
+A30 When in use for boarding or alighting, is the device attached to the ride, attached to the load/unload area or otherwise prevented from moving such that it is not displaced when loading or unloading a heavy power mobility aid and that any gaps between the ride and the device, and load/unload areas and the device, do not exceed 5/8 inch?
+yes or no
+Measurement:
+(Folding or telescoping devices are permitted provided they meet all structural requirements of this section.)
+Solutions: Attach device when in use 
+Add folding device
+Add telescoping device
+
+A31 Is a compartment, securement system, or other appropriate method provided to ensure that stowed devices, including portable devices stowed in the riders’ area, do not impinge on a rider's wheelchair or mobility aid or pose any hazard to riders in the event of a sudden stop?
+yes or no
+Solutions: Add compartment
+Add securement system
+
+A32 Transfer Device
+If a transfer device is provided, is there an accessible route to the device when the ride is in the:
+Load position?
+yes or no
+Unload position?
+yes or no
+(Exceptions in load or unload areas and on amusement ride:
+1. If a ramp is part of the accessible route and it is structurally or operationally infeasible for the slope to be no greater than 1:12, i.e. for every inch of height change there are at least 12 inches of curb ramp run, the slope may be no greater than 1:8.
+2. If it is structurally or operationally infeasible to provide handrails on the ramp, handrails are not required.
+A transfer device may be either permanent or temporary. Transfer devices that could be adapted to provide access onto an amusement ride include, but are not limited to, lifts, mechanized seat and transfer systems.)
+Solutions:Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift 
+Install a mechanized seat
+Install a transfer system
+
+A33 Is there a clear floor/ground space for wheelchair storage no less than 30 inches wide and no less than 48 inches long, adjacent to the unload area but not overlapping the accessible route or any required means of egress?
+yes or no
+Measurement:
+Solutions: Add space
+Move or remove partitions, fixtures or objects
+
+A34 Is there a clear floor/ground space no less than 30 inches wide and no less than 48 inches long adjacent to the transfer device when positioned for: 
+Loading in the load area?
+yes or no
+Measurement:
+Unloading in the unload area?
+yes or no
+Measurement:
+Solutions: Add space
+Move or remove partitions, fixtures or objects
+Reconfigure space
+
+A35 Is the height of the transfer device seat no less than 14 inches and no greater than 24 inches from the surface of the load and unload area?
+yes or no
+Measurement:
+Solutions: Change seat height

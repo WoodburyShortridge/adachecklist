@@ -1,0 +1,112 @@
+ADA Checklist for Readily Achievable Barrier Removal
+Golf Facilities
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
+Questions on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org.
+For the full set of checklists visit www.ADAchecklist.org. 
+
+Questions on the ADA contact your regional ADA Center at 800-949-4232  voice/tty    
+Survey information: 
+Project 
+Building
+Location
+Date 
+Surveyors
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them which are in parentheses. Most of the questions include possible solutions. Please add any additional solutions that you can think of.
+Golf facilities should be accessible to everyone, including people with disabilities.
+Golf Facilities (2010 Standards – 206, 238 & 1006)
+
+G1 Is there an accessible route to the entrance of the golf facility?
+yes or no
+(Use the checklist for Priority 1: Approach & Entrance.)
+Solutions: Regrade to 1:20 maximum slope 
+Install a ramp
+Install a platform lift or limited –use/limited access elevator 
+
+G2 Is there an accessible route or golf car passage that connects to the:
+Golf car rental area?
+yes or no
+Bag drop area?
+yes or no
+Weather shelter?
+yes or no
+Course toilet room?
+yes or no
+Practice putting green?
+yes or no
+Practice teeing ground?
+yes or no
+Teeing ground?
+yes or no
+Driving range teeing station?
+yes or no
+(A golf car passage is a continuous passage on which a motorized golf car can operate. It may be substituted for all or part of the accessible route. It does not need to have a prepared surface. It may be on fairways, greens and teeing surfaces.)
+Solution: Alter route
+
+G3 Is the accessible route at least 48 inches wide or at least 60 inches wide if there are handrails?
+yes or no
+Measurement:
+(Handrails are not required on golf courses.If there are handrails, they do not have to comply with the ADA Standards.)
+Solution: Widen route
+
+G4 If a golf car passage is provided instead of an accessible route is the clear width of the passage at least 48 inches?
+yes or no
+Measurement:
+Solution: Widen route
+
+G5 If a curb or other barrier on the golf car passage prevents golf cars from entering a fairway, is there an opening at least 60 inches wide at intervals no more than 75 yards apart for golf car passages?
+yes or no
+Measurement:
+Solutions: Alter curb
+Alter barrier
+Remove barriers
+
+G6 If there is one teeing ground for a hole, can a golf car enter and exit the teeing ground?
+yes or no
+Solutions: Alter route to teeing ground
+Alter teeing ground
+
+G7 If there are two teeing grounds for a hole:
+Can a golf car enter and exit the forward teeing ground, unless it is not possible due to terrain?
+yes or no
+If a golf car cannot enter and exit the forward teeing ground, can it enter and exit the other teeing ground?
+yes or no
+Solutions: Alter route to forward teeing ground
+Alter route to other teeing ground
+Alter teeing ground
+
+G8 If there are three or more teeing grounds for a hole:
+Can a golf car enter and exit at least two teeing grounds, including the forward teeing ground unless it is not possible due to terrain?
+yes or no
+If a golf car cannot enter and exit the forward teeing ground can it enter and exit the other two teeing grounds?
+yes or no
+Solutions: Alter route to forward and at least one other teeing ground
+Alter route to other teeing grounds
+Alter teeing ground(s)
+
+G9 Can a golf car enter and exit each putting green?
+yes or no
+Solutions: Alter route to putting green(s)
+Alter putting green(s)
+
+G10 Can a golf car enter at least 5 percent but not fewer than one of:
+Practice putting greens?
+yes or no
+Practice teeing grounds?
+yes or no
+Teeing stations at a driving range?
+yes or no
+Solutions: Alter route
+Alter practice putting green(s)
+Alter practice teeing ground(s)
+Alter teeing stations(s)
+
+G11 If there is a weather shelter:
+Can a golf car enter and exit the shelter?
+yes or no
+Is there a clear floor/ground space at least 60 inches by at least 96 inches within the shelter?
+yes or no
+Measurement:
+Solutions: Alter route to shelter
+Alter shelter

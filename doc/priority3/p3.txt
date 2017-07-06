@@ -1,0 +1,520 @@
+ADA Checklist for Existing Facilities
+Based on the 2010 ADA Standards of Accessible Design
+Priority 3 - Toilet Rooms 
+When toilet rooms are open to the public they should be accessible to people with disabilities.
+
+Institute for Human Centered Design
+www.HumanCenteredDesign.org
+2014 
+ADA National Network - Questions on the ADA 800-949-4232 voice/tty 
+www.ADAchecklist.org 
+
+This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government.
+
+For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org.
+
+This checklist is arranged so that the user can enter relevant information.
+
+Survey Information: 
+Project 
+Building 
+Location 
+Date 
+Surveyors 
+Contact Information
+
+For each question indicate yes or no and add measurements where appropriate. Some of the questions have explanatory notes after them.  There is also room to enter comments and the photo number if one of the surveyors is taking photos. Most of the questions include possible solutions. Please add your own solutions.
+
+3.1 If toilet rooms are available to the public, is at least one toilet room accessible? (Either one for each sex, or one unisex.) 
+Yes or No 
+Note: If toilet rooms are chiefly for children, e.g., in elementary schools and day care centers, use the children’s specifications in Toilets - 604.1, 604.8, 604.9, 609.4 and Lavatories and Sinks – 606.2.
+Possible Solution: Reconfigure toilet rooms, combine toilet rooms to create one unisex accessible toilet room 
+
+3.2 Are there signs at inaccessible toilet rooms that give directions to accessible toilet rooms?
+[See 2010 ADA Standards for Accessible Design – 216.8]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install signs 
+
+3.3 If not all toilet rooms are accessible, is there a sign at the accessible toilet room with the International Symbol of Accessibility? 
+[216.8]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install sign 
+
+Accessible Route 
+3.4 Is there a route to the accessible toilet room(s) that does not include the use of stairs? 
+Yes or No 
+Is the route accessible? (See Priority 2 Interior Accessible Route for specifics.) 
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Alter route 
+
+Signs at Toilet Rooms 
+3.5 Do text characters contrast with their backgrounds?
+[703.5]
+Yes or No 
+Are text characters raised?
+[703.2]
+Yes or No 
+Is there Braille?
+[703.3]
+Yes or No 
+Is the sign mounted:
+On the wall on the latch side of the door?
+[703.4.2]
+Yes or No 
+Note: Signs are permitted on the push side of doors with closers and without hold-open devices.
+Does the sign have clear floor space beyond the arc of the door swing between the closed position and 45-degree open position, at least 18 x 18 inches centered on the tactile characters? 
+If constructed before 3/15/2012 and a person may approach within 3 inches of the sign without encountering protruding objects or standing within the door swing, relocation not required.
+[703.4.2]
+Yes or No 
+Is the baseline of the lowest character is at least 48 inches above the floor and the baseline of the highest character is no more than 60 inches above the floor? 
+If constructed before 3/15/2012 and mounted no higher than 60 inches to the centerline of the sign, relocation is not required.
+[703.4.1]
+Yes or No
+Note: If the sign is at double doors with one active leaf, the sign should be on the inactive leaf; if both leaves are active, the sign should be on the wall to the right of the right leaf.
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install tactile sign, relocate sign 
+
+Entrance 
+3.6 Is the door opening width at least 32 inches clear, between the face of the door and the stop, when the door is open 90 degrees?
+[404.2.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install offset hinges, alter the doorway 
+
+3.7 If there is a front approach to the pull side of the door is there at least 18 inches of maneuvering clearance beyond the latch side plus 60 inches clear depth?
+Yes or No 
+Note: See 2010 Standards  404.2.4 for maneuvering clearance requirements on the push side of the door and side approaches to the pull side of the door. Go to http://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#General and scroll down.
+
+On both sides of the door, is the floor surface of the maneuvering clearance level (no steeper than 1:48)?
+[404.2.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstructions, reconfigure walls, add automatic door opener 
+
+3.8 Is the door threshold no more than ¼ inch high? 
+Yes or No 
+Or 
+No more than ¾ inch high with a sloped section beveled no steeper than 1:2? 
+Yes or No 
+Or 
+ No more than ½ inch high with a sloped section beveled no steeper than 1:2 (If installed since 1/26/93)? 
+[404.2.5, 303.2]
+Yes or No 
+Note: The first ¼ inch of the ½ or ¾ inch threshold may be vertical; the rest must be beveled.
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove or replace threshold 
+
+3.9 Is the door equipped with hardware that is operable with one hand and does not require tight grasping, pinching or twisting of the wrist?
+Yes or no 
+Door handle? 
+Yes or No 
+Lock (if provided)?
+[404.2.7]
+Yes or No  
+Comments: 
+Photo Number: 
+Possible Solution: Replace inaccessible knob with lever, loop or push hardware, add automatic door opener
+
+3.10 Are the operable parts of the door hardware mounted no less than 34 inches and no greater than 48 inches above the floor?
+[404.2.7]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible solution: Change hardware height
+
+3.11 Can the door be opened easily (5 pounds maximum force)?
+[404.2.9]
+Yes or No 
+Note: You can use a pressure gauge or fish scale to measure force. If you do not have one you will need to judge whether the door is easy to open.
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust or replace closers, install lighter doors, install power-assisted or automatic door openers 
+
+3.12 If the door has a closer, does it take at least 5 seconds to close from an open position of 90 degrees to a position of 12 degrees from the latch?
+[404.2.8.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust closer 
+
+3.13 If there are two doors in a series, e.g. vestibule, is the distance between the doors at least 48 inches plus the width of the doors when swinging into the space?
+[404.2.6]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove inner door, change door swing
+
+3.14 If there is a privacy wall and the door swings out, is there at least 24 inches of maneuvering clearance beyond the door latch side and 42 inches to the privacy wall?
+[404.2.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure space 
+
+3.15 If there is a privacy wall and the door swings in, is there at least 24 inches of maneuvering clearance beyond the door latch side and at least 48 inches to the privacy wall if there is no door closer or at least 54 inches if there is a door closer?
+[404.2.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reconfigure space 
+
+In the Toilet Room 
+3.16 Is there a clear path to at least one of each type of fixture, e.g. lavatory, hand dryer, etc., that is at least 36 inches wide?
+[403.5.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstructions 
+
+3.17 Is there clear floor space available for a person in a wheelchair to turn around, i.e. a circle at least 60 inches in diameter or a T-shaped space within a 60-inch square?
+[603.2.1]
+Note: The door to the toilet room may swing into the required turning space
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move or remove partitions, fixtures or objects such as trash cans 
+
+3.18 In a single user toilet room if the door swings in and over a clear floor space at an accessible fixture, is there a clear floor space at least 30 x 48 inches beyond the swing of the door?
+[603.2.3 Exception 2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reverse door swing, alter toilet room 
+
+3.19 If the mirror is over a lavatory or countertop, is the bottom edge of the reflecting surface no higher than 40 inches above the floor?
+Yes or No 
+Or 
+If the mirror is not over the lavatory or countertop, is the bottom edge of the reflecting surface no higher than 35 inches above the floor?
+If installed before 3/15/2012 and the bottom edge of the reflecting surface is no higher than 40 inches above the floor, lowering the mirror to 35 inches is not required.
+[603.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Lower the mirror, add another mirror 
+
+3.20 If there is a coat hook, is it no less than 15 inches and no greater than 48 inches above the floor? 
+[603.4] 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust hook, replace with or provide additional accessible hook 
+
+Lavatories - The 2010 Standards refer to sinks in toilet rooms as lavatories.
+3.21 Does at least one lavatory have a clear floor space for a forward approach at least 30 inches wide and 48 inches long?
+[606.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter lavatory, replace lavatory 
+
+3.22 Do no less than 17 inches and no greater than 25 inches of the clear floor space extend under the lavatory so that a person using a wheelchair can get close enough to reach the faucet?
+[306.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter lavatory, replace lavatory 
+
+3.23 Is the front of the lavatory or counter surface, whichever is higher, no more than 34 inches above the floor?
+[606.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter lavatory, replace lavatory 
+
+3.24 Is there at least 27 inches clearance from the floor to the bottom of the lavatory that extends at least 8 inches under the lavatory for knee clearance?
+[306.3.3] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Alter lavatory, replace lavatory 
+
+3.25 Is there toe clearance at least 9 inches high?
+[306.3.3]
+Yes or No 
+Note: Space extending greater than 6 inches beyond the available toe clearance at 9 inches above the floor is not considered toe clearance.
+
+3.26 Are pipes below the lavatory insulated or otherwise configured to protect against contact? 
+[606.5]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Install insulation, install cover panel 
+
+3.27 Can the faucet be operated without tight grasping, pinching, or twisting of the wrist?
+Yes or No 
+Is the force required to activate the faucet no greater than 5 pounds?
+[606.4]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust faucet, replace faucet 
+
+Soap Dispensers and Hand Dryers 
+3.28 Are the operable parts of the soap dispenser within one of the following reach ranges:
+Above lavatories or counters no less than 20 inches and no greater than 25 inches deep: no higher than 44 inches above the floor?
+[308.2.2]
+Yes or No 
+Above lavatories less than 20 inches deep: no higher than 48 inches above the floor?
+Yes or No 
+Not over an obstruction: no higher than 48 inches above the floor?
+[308.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust dispensers, replace with or provide additional accessible dispensers 
+
+3.29 Are the operable parts of the hand dryer or towel dispenser within one of the following reach ranges: 
+Above lavatories or counters no less than 20 inches and no greater than 25 inches deep: no higher than 44 inches above the floor?
+Yes or No
+Above lavatories less than 20 inches deep: no higher than 48 inches above the floor?
+Yes or No 
+Not over an obstruction: no higher than 48 inches above the floor?
+[308.2]
+Yes or No 
+Can the operable parts of the hand dryer or towel dispenser be operated without tight grasping, pinching or twisting of the wrist?
+Yes or No
+Is the force required to activate the hand dryer or towel dispenser no greater than 5 pounds?
+[309.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust dispensers, replace with or provide additional accessible dispensers 
+
+Water Closets in Single-User Toilet Rooms and Compartments (Stalls) 
+3.30 
+Is the centerline of the water closet no less than 16 inches and no greater than 18 inches from the side wall or partition?
+[604.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move toilet, replace toilet, move partition 
+
+3.31 Is clearance provided around the water closet measuring at least 60 inches from the side wall and at least 56 inches from the rear wall?
+If constructed before 3/15/12, clearances around water closets in single user toilet rooms can be 48 inches wide by 66 inches long or 48 inches wide by 56 inches long depending on the approach to the water closet, see 1991 Standards Figure 28 description at www.ada.gov/descript/reg3a/fig28des.htm and the lavatory may overlap that clearance if the door to the room does not swing into the required clearances at fixtures (such as lavatories, water closet and urinals) and the edge of the lavatory is at least 18 inches from the centerline of the water closet.
+[604.3.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number:
+Possible Solution: Alter room/compartment of clearance 
+
+
+3.32 Is the height of the water closet no less than 17 inches and no greater than 19 inches above the floor measured to the top of the seat?
+[604.4]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust toilet height, replace toilet 
+
+3.33 Is there a grab bar at least 42 inches long on the side wall?
+Yes or No 
+Is it located no more than 12 inches from the rear wall?
+Yes or No 
+Does it extend at least 54 inches from the rear wall? 
+[604.5.1]
+Yes or No 
+Is it mounted no less than 33 inches and no greater than 36 inches above the floor to the top of the gripping surface? 
+[609.4]
+Yes or No 
+Is there at least 12 inches clearance between the grab bar and protruding objects above?
+If constructed before 3/15/2012 grab bars do not need to be relocated; there are no space requirements above and below grab bars in the 1991 Standards.
+Yes or No 
+Is there at least 1½ inches clearance between the grab bar and projecting objects below?
+If constructed before 3/15/2012 grab bars do not need to be relocated; there are no space requirements above and below grab bars in the 1991 Standards.
+Yes or No
+
+Is the space between the wall and the grab bar 1 ½ inches?
+[609.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install grab bar, relocate grab bar, relocate objects 
+
+3.34 Is there a grab bar at least 36 inches long on the rear wall? 
+Yes or No 
+Does it extend at least 12 inches from the centerline of the water closet on one side (side wall)? 
+Yes or No 
+Does it extend at least 24 inches on the other (open) side? 
+[604.5.2]
+Yes or No 
+Is it mounted no less than 33 inches and no greater than 36 inches above the floor to the top of the gripping surface? 
+[609.4]
+Yes or No 
+Are there at least 12 inches clearance between the grab bar and protruding objects above?
+If constructed before 3/15/2012 grab bars do not need to be relocated; there are no space requirements above and below grab bars in the 1991 Standards.
+Yes or No 
+Are there at least 1½ inches clearance between the grab bar and projecting objects below?
+If constructed before 3/15/2012 grab bars do not need to be relocated; there are no space requirements above and below grab bars in the 1991 Standards.
+Yes or No 
+Is the space between the wall and the grab bar 1½ inches?
+[609.3]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Install grab bar, relocate grab bar, relocate objects
+
+3.35 If the flush control is hand operated, is the operable part located no higher than 48 inches above the floor?
+[604.6]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Move control, install sensor with override button no higher than 48 inches 
+
+3.36 If the flush control is hand operated, can it be operated with one hand and without tight grasping, pinching, or twisting of the wrist?
+Yes or No 
+Is the force required to activate the flush control no greater than 5 pounds?
+[605.4]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Change control, adjust control 
+
+3.37 Is the flush control on the open side of the water closet?
+[604.6]
+Yes or No 
+Comments: 
+Photo Number:
+Possible Solution: Move control 
+
+3.38 Is the toilet paper dispenser located no less than 7 inches and no greater than 9 inches from the front of the water closet to the centerline of the dispenser?
+If constructed before 3/15/2012 dispenser does not need to be relocated if it is within reach from the water closet seat; the 1991 Standards do not specify distance from the front of the water closet.
+[604.7]
+Yes or No 
+Measurement: 
+Comments:
+Photo Number: 
+Possible Solution: Relocate dispenser 
+
+3.39 Is the outlet of the dispenser: 
+Located no less than 15 inches and no greater than 48 inches above the floor?
+Yes or No 
+Not located behind grab bars?
+[604.7]
+If constructed before 3/15/2012 dispenser does not need to be relocated if it is within reach from the water closet seat; the 1991 Standards do not specify distance from the front of the water closet.Yes or No 
+Measurement: 
+Comments:
+Photo Number:
+Possible Solution: Relocate dispenser 
+
+3.40 Does the dispenser allow continuous paper flow?
+[604.7]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Adjust dispenser, replace dispenser 
+
+Toilet Compartments (Stalls) 
+3.41 Is the door opening width at least 32 inches clear, between the face of the door and the stop, when the door is open 90 degrees? 
+[604.8.1.2]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen door width 
+
+3.42 If there is a front approach to the pull side of the door, is there at least 18 inches of maneuvering clearance beyond the latch side plus 60 inches clear depth?
+[604.8.1.2]
+Yes or No 
+Note: See 2010 Standards 604.8.1.2 Doors for maneuvering clearance requirements on the push side of the door and side approaches to the pull side of the door. Go to http://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006287 and scroll down.
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Remove obstructions 
+
+3.43 Is the door self-closing? 
+[604.8.1.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Add closer, replace door
+
+3.44 Are there door pulls on both sides of the door that are operable with one hand and do not require tight grasping pinching or twisting of the wrist?
+If constructed before 3/15/2012 door pulls do not need to be added; door pulls are not required in the 1991 Standards.
+[604.8.1.2]
+Yes or No 
+Comments: 
+Photo Number: 
+Possible Solution: Replace hardware 
+
+3.45 Is the lock operable with one hand and without tight grasping, pinching or twisting of the wrist?
+[309.4]
+Yes or No 
+Comments: 
+Photo Number:
+Possible Solution: Replace lock 
+
+3.46 Are the operable parts of the door hardware mounted no less than 34 inches and no greater than 48 inches above the floor?
+[404.2.7]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Relocate hardware 
+
+3.47 Is the compartment at least 60 inches wide?
+[604.8.1.1]
+Yes or No 
+Measurement: 
+Comments:
+Photo Number: 
+Possible Solution: Widen compartment 
+
+3.48 If the water closet is wall hung, is the compartment at least 56 inches deep?
+[604.8.1.1]
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Widen compartment
+
+3.49 If the water closet is floor mounted, is the compartment at least 59 inches deep?
+[604.8.1.1]
+Yes or No 
+Measurement: 
+Comments:
+Photo Number: 
+Possible Solution: Alter compartment 
+
+3.50 If the door swings in, is the minimum required compartment area provided beyond the swing of the door (60 inches x 56 inches if water closet is wall hung or 59 inches if water closet is floor mounted)? 
+[604.8.1.1] 
+Yes or No 
+Measurement: 
+Comments: 
+Photo Number: 
+Possible Solution: Reverse door swing, alter compartments 
+

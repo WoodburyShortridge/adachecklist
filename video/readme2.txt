@@ -1,0 +1,1 @@
+this directory was used to test accessible video players that would be used within the New England ADA Course. This is not connected with the ADA Checklist.
