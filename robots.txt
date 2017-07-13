@@ -1,7 +1,3 @@
 User-agent: *
 Disallow: /js
-Disallow: /registration
-Disallow: /ADAcourse
-Disallow: /video
 Allow: /
-
