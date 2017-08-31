@@ -26,3 +26,12 @@ function postInfoToGoogle() {
 		$formFrame.height(30);
 		window.scrollTo (0,165)
 }
+
+$('select[name=country]').on('change', function() {
+  var country = $('select[name=country]').val();
+  if (country != 'United States') {
+    $('#question3').hide();
+  } else {
+    $('#question3').show();
+  }
+})
