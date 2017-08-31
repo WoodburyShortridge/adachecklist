@@ -2,19 +2,7 @@ ADA Checklist for Readily Achievable Barrier Removal
 
 2011
 
-Based on the 2010 ADA Standards for Accessible Design          
-
-This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network.  If you have questions  about this checklist call 617-695-0085 voice and tty or email at  adainfo@NewEnglandADA.org.
-
-For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org.
-
-This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. 
-
-ADA National Network  
-www.ADAta.org.
-Questions on the ADA or to find your regional ADA Center call 800-949-4232 voice and tty or go to www.adata.org.
-
-How to Use this Checklist
+Based on the 2010 ADA Standards for Accessible Design   This checklist was produced by the New England ADA Center, a project of the Institute for Human Centered Design and a member of the ADA National Network. This checklist was developed under a grant from the Department of Education, NIDRR grant number H133A060092-09A. However the contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government. Questions or comments on the checklist contact the New England ADA Center at 617-695-0085 voice/tty or ADAinfo@NewEnglandADA.org For the full set of checklists, including the checklists for recreation facilities visit www.ADAchecklist.org. Copyright © 2016 ADA Checklist for Existing Materials. You can freely reproduce and distribute this content. Include proper attribution. But you must get permission before using this content as a fee-based product. How to Use this Checklist
 
 Get Organized
 One person can conduct a survey, but it’s easier with two people. One person can take measurements and the other person can fill out the checklist and take photos.
@@ -37,7 +25,7 @@ Gather Tools
 
 Conduct the Survey
 Start Outside 
-Start from site arrival points such as drop-off areas and public sidewalks and determine if there is an accessible route to an accessible entrance. If there is a parking lot or garage check for the correct number of accessible parking spaces, including van-accessible spaces. Is there an accessible route from the accessible parking spaces to an accessible entrance?  Next survey the entrances. If there is an accessible entrance, determine if there are signs at inaccessible entrances directing people to the accessible entrance. Go inside and continue through the facility and the checklist.
+Start from site arrival points such as drop-off areas and public sidewalks and determine if there is an accessible route to an accessible entrnce. If there is a parking lot or garage check for the correct number of accessible parking spaces, including van-accessible spaces. Is there an accessible route from the accessible parking spaces to an accessible entrance?  Next survey the entrances. If there is an accessible entrance, determine if there are signs at inaccessible entrances directing people to the accessible entrance. Go inside and continue through the facility and the checklist.
 
 Keep Good Notes
 Write on the front of each checklist where you are surveying. You may end up with six toilet room checklists. When you get back to your office you’ll want to know which one is the checklist for the first floor women’s room. If there isn’t an accessible entrance you’ll want to indicate how many steps there are and how much space is available to install a ramp or lift. This is a good time to take photographs. 
