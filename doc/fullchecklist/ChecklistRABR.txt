@@ -712,7 +712,7 @@ yes or no
 Add raised characters
 Solutions: Add Braille
 
-2.30 If there is a full size or LULA elevator, are there audible signals which sound as the car passes or is about to stop at a floor?
+2.30 If there is a full size elevator, are there audible signals which sound as the car passes or is about to stop at a floor?
 yes or no
 Solution: Add audible signals
 
@@ -1346,7 +1346,7 @@ Measurement:
 Is it mounted no less than 33 inches and no greater than 36 inches above the floor to the top of the gripping surface? 
 yes or no
 Measurement:
-Is there at least 12 inches clearance between the grab bar and protruding objects above?
+Is there at least 12 inches clearance between the grab bar and projecting objects above?
 yes or no
 Measurement:
 Is there at least 1½ inches clearance between the grab bar and projecting objects below?

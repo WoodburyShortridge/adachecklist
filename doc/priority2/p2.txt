@@ -289,7 +289,7 @@ Comments:
 Photo Number: 
 Possible Solution: Add raised characters, add braille 
 
-2.30 If there is a full size or LULA elevator, are there audible signals which sound as the car passes or is about to stop at a floor? 
+2.30 If there is a full size elevator, are there audible signals which sound as the car passes or is about to stop at a floor? 
 [407.4.8] 
 Yes or No 
 Comments: 
